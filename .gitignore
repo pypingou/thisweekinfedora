@@ -16,4 +16,6 @@ _build/
 
 cache/
 output/
+*.db
 data/
+
