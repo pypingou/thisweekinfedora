@@ -17,3 +17,9 @@ h4, h5, h6 { font-size:14px; }
 a:visited, a:hover, a:active {
     color:blue;
 }
+
+#intro{
+  border-bottom: 1px dotted #C8C8C8;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}

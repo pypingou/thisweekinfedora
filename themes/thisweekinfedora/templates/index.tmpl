@@ -3,6 +3,18 @@
 <%namespace name="disqus" file="disqus_helper.tmpl"/>
 <%inherit file="base.tmpl"/>
 <%block name="content">
+    <div class="postbox" id="intro">
+       <h1>Weekly updates on the activities of the community.</h1>
+       <p>
+          This week in Fedora is providing weekly news about the activities of
+          the contributors to the <a href="http://fedoraproject.org" >Fedora project</a>
+          using the information collected by <a href="http://fedmsg.com">fedmsg</a>
+          and made available via <a href="https://apps.fedoraproject.org/datagrepper/">datagrepper</a>.
+       </p>
+
+      <img src="assets/" alt="Graph of the evolution of the activities over time"/>
+
+    </div>
     % for post in posts:
         <div class="postbox">
         <h1><a href="${post.permalink()}">${post.title()}</a></h1>
