@@ -1,0 +1,15 @@
+*.pyc
+.project
+.pydev*
+*.log
+build/
+dist/
+MANIFEST
+*.csv
+*.map
+*.egg-info
+_build/
+.coverage
+*~
+*.swp
+*.egg
