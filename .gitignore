@@ -13,3 +13,7 @@ _build/
 *~
 *.swp
 *.egg
+
+cache/
+output/
+data/
