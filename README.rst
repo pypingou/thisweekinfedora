@@ -6,7 +6,7 @@ This week in Fedora
 
 .. _datagrepper: https://apps.fedoraproject.org/datagrepper/
 
-This week in Fedora is a website providing weekly news about the acitivity of
+This week in Fedora is a website providing weekly news about the activities of
 the contributors to the `Fedora project <http://fedoraproject.org>`_ using
 the information collected by `fedmsg <http://www.fedmsg.com>`_ and made
 available via `datagrepper`_
