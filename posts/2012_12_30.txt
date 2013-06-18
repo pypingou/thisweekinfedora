@@ -1,0 +1,21 @@
+.. link:
+.. description:
+.. date: 2013/06/18 19:40:13
+.. title: Activities from Mon, 24 Dec 2012 to Sun, 30 Dec 2012
+.. slug: 2012_12_30
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                        0               NA
+Edit on the wiki             97           28.12%
+FAS user created             32           96.97%
+Meeting completed             0            0.00%
+Meeting started               0            0.00%
+New packages                  0               NA
+Posts on the planet           0               NA
+Retired packages              0               NA
+Updates to stable           346          110.90%
+Updates to testing          253           48.37%
+======================    ========   ======================
+

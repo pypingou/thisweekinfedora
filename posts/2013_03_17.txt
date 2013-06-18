@@ -1,0 +1,21 @@
+.. link:
+.. description:
+.. date: 2013/06/18 19:44:18
+.. title: Activities from Mon, 11 Mar 2013 to Sun, 17 Mar 2013
+.. slug: 2013_03_17
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                      662               NA
+Edit on the wiki            308               NA
+FAS user created             23               NA
+Meeting completed             3               NA
+Meeting started               3               NA
+New packages                  8               NA
+Posts on the planet          34               NA
+Retired packages              1               NA
+Updates to stable           136               NA
+Updates to testing          126               NA
+======================    ========   ======================
+

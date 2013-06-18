@@ -1,0 +1,21 @@
+.. link:
+.. description:
+.. date: 2013/06/18 19:40:48
+.. title: Activities from Mon, 07 Jan 2013 to Sun, 13 Jan 2013
+.. slug: 2013_01_13
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                        0               NA
+Edit on the wiki            850          271.57%
+FAS user created             44          112.82%
+Meeting completed             0               NA
+Meeting started               0               NA
+New packages                  0               NA
+Posts on the planet           0               NA
+Retired packages              0               NA
+Updates to stable           369          105.73%
+Updates to testing          531          133.42%
+======================    ========   ======================
+

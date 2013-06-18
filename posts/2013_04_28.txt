@@ -1,0 +1,21 @@
+.. link:
+.. description:
+.. date: 2013/06/18 19:47:08
+.. title: Activities from Mon, 22 Apr 2013 to Sun, 28 Apr 2013
+.. slug: 2013_04_28
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                     6006          139.71%
+Edit on the wiki           1561           79.44%
+FAS user created             51          121.43%
+Meeting completed            19           95.00%
+Meeting started              19           95.00%
+New packages                 81          300.00%
+Posts on the planet         107          137.18%
+Retired packages             17          113.33%
+Updates to stable           501           92.61%
+Updates to testing          820          123.49%
+======================    ========   ======================
+
