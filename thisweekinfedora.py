@@ -63,6 +63,7 @@ def get_fedora_activity(datetime_to, datetime_from):
         time of the week to retrieve.
 
     """
+    #print datetime_from, datetime_to
 
     activities = {}
     for topic in TOPICS:
@@ -142,32 +143,6 @@ def save_activities(datetime_to, activities):
         stream.write(json.dumps(activities))
 
 
-def load_previous_activities(datetime_from):
-    """ Loads the previous activities using the data stored on the
-    file system.
-
-    :arg datetime_from: a datetime object specifying the ending date and
-        time of the week to retrieve.
-
-    """
-    output = {}
-    if not os.path.exists('data'):
-        return output
-
-    datetime_from = datetime_from - timedelta(days=1)
-
-    file_name = os.path.join(
-        'data',
-        '{0}.txt'.format(datetime_from.strftime('%Y_%m_%d'))
-    )
-    if not os.path.exists(file_name):
-        return output
-
-    with open(file_name) as stream:
-        output = json.loads(stream.read())
-    return output
-
-
 def main(date_to):
     """ Main function.
     """
@@ -175,13 +150,16 @@ def main(date_to):
                            23, 59) - timedelta(days=1)
     datetime_from = datetime(date_to.year, date_to.month, date_to.day,
                              0, 0) - timedelta(days=7)
-    #print datetime_to, datetime_from
+    #print datetime_from, datetime_to
 
     activities = get_fedora_activity(datetime_to, datetime_from)
 
     save_activities(datetime_to, activities)
 
-    previous_activities = load_previous_activities(datetime_from)
+    previous_activities = get_fedora_activity(
+        datetime_to - timedelta(days=7),
+        datetime_from - timedelta(days=7)
+    )
 
     create_blog_post(datetime_to, datetime_from, activities,
                      previous_activities)
