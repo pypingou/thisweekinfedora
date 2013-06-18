@@ -2,3 +2,4 @@
 # Use this file by running "$ pip install -r requirements.txt"
 requests
 nikola
+pygal
