@@ -95,8 +95,11 @@ def create_blog_post(datetime_to, datetime_from, activities,
         diff = 'NA'
         if activity in previous_activities:
             old_activity = previous_activities[activity]
-            diff = "{0:5.2f}%".format(
-                (activities[activity] * 100) / float(old_activity))
+            if old_activity == 0:
+                diff = 'NA'
+            else:
+                diff = "{0:5.2f}%".format(
+                    (activities[activity] * 100) / float(old_activity))
 
         blog_entry += "{0} {1}  {2}\n".format(
             activity.ljust(20),
@@ -156,29 +159,33 @@ def save_activities(datetime_to, activities):
     with open(file_name, 'w') as stream:
         stream.write(json.dumps(output))
 
+    return output
 
-def generate_svg():
+
+def generate_svg(evolution):
     """ Reads in the json string contained in `evolution.txt` and
     generate the evolution graph from it using pygal.
+
+    :arg evolution: a dictionnary representing the evolution of the
+        activities over time.
+
     """
     file_name = 'evolution.txt'
-
-    output = {}
-
-    if os.path.exists(file_name):
-        with open(file_name) as stream:
-            output = json.loads(stream.read())
-    if not output:
-        return
 
     line_chart = pygal.Line()
     line_chart.title = 'Evolution of the activities of the contributors over time'
     lbls = []
-    for activity in sorted(output.keys()):
-        values = [math.log(output[activity][key]) for key in sorted(output[activity].keys())]
+    for activity in sorted(evolution.keys()):
+        values = []
+        for key in sorted(evolution[activity].keys()):
+            val = evolution[activity][key]
+            if val == 0:
+                values.append(val)
+            else:
+                values.append(math.log10(val))
         line_chart.add(activity, values)
         if not lbls:
-            values = sorted(output[activity].keys())
+            values = sorted(evolution[activity].keys())
     line_chart.x_labels = lbls
     line_chart.render_to_file(os.path.join('themes', 'thisweekinfedora',
                                            'assets', 'evolution.svg'))
@@ -195,9 +202,9 @@ def main(date_to):
 
     activities = get_fedora_activity(datetime_to, datetime_from)
 
-    save_activities(datetime_to, activities)
+    evolution = save_activities(datetime_to, activities)
 
-    generate_svg()
+    generate_svg(evolution)
 
     previous_activities = get_fedora_activity(
         datetime_to - timedelta(days=7),
@@ -210,7 +217,28 @@ def main(date_to):
 
 
 if __name__ == '__main__':
-    for date_to in [datetime(2013, 5, 27),
+    for date_to in [datetime(2012, 12, 31),
+                    datetime(2013, 1, 7),
+                    datetime(2013, 1, 14),
+                    datetime(2013, 1, 21),
+                    datetime(2013, 1, 28),
+                    datetime(2013, 2, 4),
+                    datetime(2013, 2, 11),
+                    datetime(2013, 2, 18),
+                    datetime(2013, 2, 25),
+                    datetime(2013, 3, 5),
+                    datetime(2013, 3, 11),
+                    datetime(2013, 3, 18),
+                    datetime(2013, 3, 25),
+                    datetime(2013, 4, 1),
+                    datetime(2013, 4, 8),
+                    datetime(2013, 4, 15),
+                    datetime(2013, 4, 22),
+                    datetime(2013, 4, 29),
+                    datetime(2013, 5, 6),
+                    datetime(2013, 5, 13),
+                    datetime(2013, 5, 20),
+                    datetime(2013, 5, 27),
                     datetime(2013, 6, 3),
                     datetime(2013, 6, 10),
                     datetime(2013, 6, 17)]:
