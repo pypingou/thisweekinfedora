@@ -210,9 +210,6 @@ def main(date_to):
 
 
 if __name__ == '__main__':
-    #date_to = datetime(2013, 6, 17)
-    #date_to = datetime(2013, 6, 10)
-    #date_to = datetime(2013, 6, 3)
     for date_to in [datetime(2013, 5, 27),
                     datetime(2013, 6, 3),
                     datetime(2013, 6, 10),
