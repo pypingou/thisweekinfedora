@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 
@@ -95,9 +96,9 @@ def create_blog_post(datetime_to, datetime_from, activities,
                 (activities[activity] * 100) / float(old_activity))
 
         blog_entry += "{0} {1}  {2}\n".format(
-            activity.ljust(25),
-            str(activities[activity]).rjust(6),
-            diff)
+            activity.ljust(20),
+            str(activities[activity]).rjust(10),
+            diff.rjust(15))
 
     content = """.. link:
 .. description:
@@ -105,9 +106,11 @@ def create_blog_post(datetime_to, datetime_from, activities,
 .. title: Activities from {date_from} to {date_to}
 .. slug: {slug_date}
 
-======================    ======  ======
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
 {content}
-======================    ======  ======
+======================    ========   ======================
 
 """.format(
     date_now=datetime.utcnow().strftime('%Y/%m/%d %H:%M:%S'),
@@ -185,7 +188,11 @@ def main(date_to):
 
 
 if __name__ == '__main__':
-    date_to = datetime(2013, 6, 17)
+    #date_to = datetime(2013, 6, 17)
     #date_to = datetime(2013, 6, 10)
     #date_to = datetime(2013, 6, 3)
-    main(date_to)
+    for date_to in [datetime(2013, 5, 27),
+                    datetime(2013, 6, 3),
+                    datetime(2013, 6, 10),
+                    datetime(2013, 6, 17)]:
+        main(date_to)
