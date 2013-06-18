@@ -185,7 +185,7 @@ def generate_svg(evolution):
                 values.append(math.log10(val))
         line_chart.add(activity, values)
         if not lbls:
-            values = sorted(evolution[activity].keys())
+            lbls = sorted(evolution[activity].keys())
     line_chart.x_labels = lbls
     line_chart.render_to_file(os.path.join('themes', 'thisweekinfedora',
                                            'assets', 'evolution.svg'))
@@ -217,7 +217,8 @@ def main(date_to):
 
 
 if __name__ == '__main__':
-    for date_to in [datetime(2012, 12, 31),
+    for date_to in [
+                    datetime(2012, 12, 31),
                     datetime(2013, 1, 7),
                     datetime(2013, 1, 14),
                     datetime(2013, 1, 21),
@@ -241,5 +242,6 @@ if __name__ == '__main__':
                     datetime(2013, 5, 27),
                     datetime(2013, 6, 3),
                     datetime(2013, 6, 10),
-                    datetime(2013, 6, 17)]:
+                    datetime(2013, 6, 17),
+                    ]:
         main(date_to)
