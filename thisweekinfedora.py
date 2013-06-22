@@ -119,7 +119,7 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 
 """.format(
-    date_now=datetime.utcnow().strftime('%Y/%m/%d %H:%M:%S'),
+    date_now=datetime_to.strftime('%Y/%m/%d %H:%M:%S'),
     date_from=datetime_from.strftime('%a, %d %b %Y'),
     date_to=datetime_to.strftime('%a, %d %b %Y'),
     slug_date=datetime_to.strftime('%Y_%m_%d'),
