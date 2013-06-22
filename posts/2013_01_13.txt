@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 07 Jan 2013 to Sun, 13 Jan 2013
 .. slug: 2013_01_13
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages              0               NA
 Updates to stable           369          105.73%
 Updates to testing          531          133.42%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     
+Edit on the wiki           pwhalen (50), adamwill (37), robatino (35),
+Meeting completed          
+Meeting started            
+New packages               
+Posts on the planet        
+Retired packages           
+Updates to stable          mtasaka (32), remi (23), denisarnaud (20),
+Updates to testing         remi (24), ppisar (16), fab (15),
+======================    ==============
 

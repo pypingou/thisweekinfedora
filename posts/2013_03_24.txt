@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 18 Mar 2013 to Sun, 24 Mar 2013
 .. slug: 2013_03_24
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             27         2700.00%
 Updates to stable           322          236.76%
 Updates to testing          506          401.59%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     siwinski (169), remi (143), bkabrda (113),
+Edit on the wiki           mayorgalinux (56), stefw (54), kengert (44),
+Meeting completed          nirik (6), jreznik (5), adamw (3),
+Meeting started            eseyman (2), nirik (2), adamw (1),
+New packages               limb (74), pbabinca (18), afsilva (13),
+Posts on the planet        admiyo (3), fabiand (3), rjones (3), adamwill (2), abompard (1),
+Retired packages           limb (5), rmarko (4), cwickert (2),
+Updates to stable          tdawson (33), ralph (24), peter (14),
+Updates to testing         afsilva (41), siwinski (28), jamielinux (18),
+======================    ==============
 

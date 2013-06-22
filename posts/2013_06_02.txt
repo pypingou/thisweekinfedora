@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 27 May 2013 to Sun, 02 Jun 2013
 .. slug: 2013_06_02
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             11           84.62%
 Updates to stable           646          140.43%
 Updates to testing          654           78.14%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     rdieter (629), whot (50), ppisar (46),
+Edit on the wiki           pwhalen (62), peter (38), crobinso (36),
+Meeting completed          nirik (6), jreznik (4), satellit_e (4), abadger1999 (3),
+Meeting started            stoney (2), tflink (2), LoKoMurdoK (1),
+New packages               limb (48), cicku (7), patches (5),
+Posts on the planet        mahrud (14), fab (12), pocock (11),
+Retired packages           limb (5), tremble (3), galileo (2),
+Updates to stable          jamielinux (28), averi (26), denisarnaud (22),
+Updates to testing         jamielinux (25), callkalpa (18), sharkcz (18), tdawson (17),
+======================    ==============
 

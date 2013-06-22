@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 10 Jun 2013 to Sun, 16 Jun 2013
 .. slug: 2013_06_16
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             14           77.78%
 Updates to stable           503           89.03%
 Updates to testing          578           85.63%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     siwinski (111), epienbro (96), asrob (43),
+Edit on the wiki           peter (155), inkscaper (91), pwhalen (46),
+Meeting completed          nirik (1),
+Meeting started            nirik (1),
+New packages               limb (45), goldmann (7), gil (6),
+Posts on the planet        skorzen (5), davej (4), vinz (4), ardian (3),
+Retired packages           russellb (5), sgallagh (3), toshio (3), jamatos (2),
+Updates to stable          jamielinux (41), limb (21), cicku (13),
+Updates to testing         asrob (41), terjeros (18), cicku (15),
+======================    ==============
 

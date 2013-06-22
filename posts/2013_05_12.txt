@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 06 May 2013 to Sun, 12 May 2013
 .. slug: 2013_05_12
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             18           39.13%
 Updates to stable           472           84.14%
 Updates to testing          587           91.72%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     rdieter (277), jamielinux (55), averi (43),
+Edit on the wiki           stefw (120), zerng07 (49), boblfoot (40),
+Meeting completed          nirik (2), BadGirl (1), CodeBlock (1),
+Meeting started            alick (1),
+New packages               limb (59), msrb (7), doshitan (6),
+Posts on the planet        rjones (5), jsandys (4), kashyapc (3),
+Retired packages           averi (5), patches (4), rnovacek (4), ajax (2),
+Updates to stable          limb (29), ralph (16), pghmcfc (15),
+Updates to testing         jamielinux (42), averi (24), ralph (17),
+======================    ==============
 

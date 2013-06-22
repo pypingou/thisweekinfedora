@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 15 Apr 2013 to Sun, 21 Apr 2013
 .. slug: 2013_04_21
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             15           78.95%
 Updates to stable           541          127.29%
 Updates to testing          664           98.22%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     patches (146), spot (146), siwinski (115), kalev (97),
+Edit on the wiki           jskarvad (92), pwhalen (78), duffy (68),
+Meeting completed          nirik (9), jreznik (7), jsmith (6),
+Meeting started            nirik (2), suehle (2), tflink (2), FranciscoD (1),
+New packages               limb (22), pbabinca (5), ppisar (3),
+Posts on the planet        cicku (13), rjones (9), gnokii (5),
+Retired packages           lbazan (6), humaton (4), cdamian (2),
+Updates to stable          limb (49), remi (33), mtasaka (27),
+Updates to testing         mizdebsk (23), jamielinux (21), patches (19),
+======================    ==============
 

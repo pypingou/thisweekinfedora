@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 04 Feb 2013 to Sun, 10 Feb 2013
 .. slug: 2013_02_10
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages              2           33.33%
 Updates to stable           135          146.74%
 Updates to testing          159          113.57%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     denisarnaud (428), rdieter (88), paragn (67),
+Edit on the wiki           sundaram (28), denisarnaud (26), sagitter (18),
+Meeting completed          
+Meeting started            
+New packages               limb (11), patches (3), bsjones (2),
+Posts on the planet        mjg59 (2), vinz (2), ankursinha (1),
+Retired packages           rebus (2),
+Updates to stable          tdawson (31), mtasaka (8), sharkcz (8), remi (7),
+Updates to testing         sdodson (30), mtasaka (12), robert (10),
+======================    ==============
 

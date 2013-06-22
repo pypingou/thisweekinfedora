@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 21 Jan 2013 to Sun, 27 Jan 2013
 .. slug: 2013_01_27
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages              6          300.00%
 Updates to stable           424          111.58%
 Updates to testing          442           83.55%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     
+Edit on the wiki           jreznik (53), cicku (41), adamwill (38),
+Meeting completed          abadger1999 (4), nirik (4), dgilmore (3), epico (2),
+Meeting started            nirik (2), abadger1999 (1), aeperezt (1),
+New packages               limb (48), tradej (6), bochecha (4),
+Posts on the planet        
+Retired packages           limb (2), drago01 (1), kevin (1),
+Updates to stable          adev (22), remi (21), limb (15),
+Updates to testing         ralph (26), peter (14), rdieter (12),
+======================    ==============
 

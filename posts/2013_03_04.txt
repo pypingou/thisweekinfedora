@@ -4,6 +4,9 @@
 .. title: Activities from Tue, 26 Feb 2013 to Mon, 04 Mar 2013
 .. slug: 2013_03_04
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             14           41.18%
 Updates to stable            45           13.31%
 Updates to testing           68           14.85%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     toshio (20), salimma (16), mpaladin (15),
+Edit on the wiki           cicku (35), xosevp (6), toshio (5),
+Meeting completed          
+Meeting started            
+New packages               
+Posts on the planet        fhornain (2), asn (1), limb (1),
+Retired packages           fab (7), kumarpraveen (6), dionysos (1),
+Updates to stable          corsepiu (8), normunds (5), martinkg (4),
+Updates to testing         mpaladin (12), davidcl (4), ellert (3),
+======================    ==============
 

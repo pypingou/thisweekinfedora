@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 04 Mar 2013 to Sun, 10 Mar 2013
 .. slug: 2013_03_10
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages              0            0.00%
 Updates to stable             0            0.00%
 Updates to testing            0            0.00%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     
+Edit on the wiki           
+Meeting completed          
+Meeting started            
+New packages               
+Posts on the planet        
+Retired packages           
+Updates to stable          
+Updates to testing
+======================    ==============
 

@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 28 Jan 2013 to Sun, 03 Feb 2013
 .. slug: 2013_02_03
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages              6          100.00%
 Updates to stable            92           21.70%
 Updates to testing          140           31.67%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     
+Edit on the wiki           jreznik (51), avesh (44), zerng07 (27),
+Meeting completed          nb (3), BobLfoot (1), Cerlyn (1),
+Meeting started            randomuser` (1), sesivany (1), tflink (1),
+New packages               limb (7), patches (3), dwrobel (1),
+Posts on the planet        
+Retired packages           sundaram (3), cassmodiah (2), narasim (1),
+Updates to stable          mhlavink (6), nb (5), fcami (4),
+Updates to testing         mcpierce (8), jsmith (5), mpaladin (5), ajax (4),
+======================    ==============
 

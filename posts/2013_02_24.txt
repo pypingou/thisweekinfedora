@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 18 Feb 2013 to Sun, 24 Feb 2013
 .. slug: 2013_02_24
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             37          205.56%
 Updates to stable           346          136.22%
 Updates to testing          423           92.76%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     ausil (2385), remi (118), kalev (97),
+Edit on the wiki           cmalfait (56), pwhalen (54), cicku (49),
+Meeting completed          
+Meeting started            
+New packages               limb (45), jamielinux (11), than (11), ausil (5),
+Posts on the planet        cicku (10), fitzsim (10), rtnpro (10), tuxdna (5), adamwill (3),
+Retired packages           kevin (7), ausil (6), liangsuilong (4),
+Updates to stable          sdodson (24), pravins (15), mtasaka (12),
+Updates to testing         jamielinux (24), tdawson (20), vicodan (19),
+======================    ==============
 

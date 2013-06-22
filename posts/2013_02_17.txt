@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 11 Feb 2013 to Sun, 17 Feb 2013
 .. slug: 2013_02_17
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             18          900.00%
 Updates to stable           254          188.15%
 Updates to testing          456          286.79%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     ausil (8935), limb (93), whot (89),
+Edit on the wiki           pwhalen (90), cmalfait (73), limb (64),
+Meeting completed          
+Meeting started            
+New packages               limb (70), than (24), jamielinux (9),
+Posts on the planet        fantom (21), affix (10), lmacken (7),
+Retired packages           limb (5), minh (4), mrunge (2),
+Updates to stable          mtasaka (12), spot (11), jjames (8),
+Updates to testing         ralph (23), raveit65 (18), remi (17),
+======================    ==============
 

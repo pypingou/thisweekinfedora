@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 31 Dec 2012 to Sun, 06 Jan 2013
 .. slug: 2013_01_06
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages              0               NA
 Updates to stable           349          100.87%
 Updates to testing          398          157.31%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     
+Edit on the wiki           robatino (23), anipeter (22), fedoradummy (19),
+Meeting completed          
+Meeting started            
+New packages               
+Posts on the planet        
+Retired packages           
+Updates to stable          denisarnaud (23), tdawson (20), siwinski (13),
+Updates to testing         mtasaka (34), rdieter (23), spot (14),
+======================    ==============
 

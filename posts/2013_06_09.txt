@@ -4,6 +4,9 @@
 .. title: Activities from Mon, 03 Jun 2013 to Sun, 09 Jun 2013
 .. slug: 2013_06_09
 
+Activities
+----------
+
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
@@ -18,4 +21,21 @@ Retired packages             18          163.64%
 Updates to stable           565           87.46%
 Updates to testing          675          103.21%
 ======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     patches (52), kalev (48), remi (42),
+Edit on the wiki           pwhalen (158), robatino (41), eischmann (36),
+Meeting completed          rebelsky (10), stoneyj (8), rsuehle (7),
+Meeting started            rebelsky (5), aeperezt (2), sesivany (2), FranciscoD (1),
+New packages               limb (61), jamielinux (7), gil (6),
+Posts on the planet        rrix (11), davej (6), oddshocks (6), remi (4),
+Retired packages           kwizart (14), ankursinha (2), kevin (1),
+Updates to stable          ralph (23), raveit65 (19), callkalpa (18),
+Updates to testing         jamielinux (20), limb (17), raveit65 (17), remi (16),
+======================    ==============
 
