@@ -33,8 +33,10 @@ TOPICS = {
     "Posts on the planet": 'org.fedoraproject.prod.planet.post.new',
     "Edit on the wiki": 'org.fedoraproject.prod.wiki.article.edit'
 }
+BLACK_LIST_USERS = ['zodbot', 'bodhi']
 
-def query_datagrepper(start, end, topic):
+
+def query_datagrepper(start, end, topic, full=False):
     """ Query datagrepper for the provided time period and topic and
     returns the number of events that occured then.
     
@@ -43,16 +45,82 @@ def query_datagrepper(start, end, topic):
     :arg end: a datetime object specifying when the time period to
         query ended.
     :arg topic: the fedmsg topic to query.
+    :kwarg full: a boolean specifying whether to retrieve all the
+        messages or not.
 
     """
-    params = {'start': calendar.timegm(start.timetuple()),
-              'end': calendar.timegm(end.timetuple()),
-              'topic': topic,
-          }
-    req = requests.get(DATAGREPPER, params=params)
-    json_out = json.loads(req.text)
-    return json_out['total']
+    if not full:
+        params = {'start': calendar.timegm(start.timetuple()),
+                  'end': calendar.timegm(end.timetuple()),
+                  'topic': topic,
+                  'meta': 'usernames',
+                  }
+        req = requests.get(DATAGREPPER, params=params)
+        json_out = json.loads(req.text)
+        json_out = json_out['total']
+    else:
+        messages = []
+        cnt = 1
+        while True:
+            params = {'start': calendar.timegm(start.timetuple()),
+                      'end': calendar.timegm(end.timetuple()),
+                      'rows_per_page': 100,
+                      'page': cnt,
+                      'topic': topic,
+                      'meta': 'usernames',
+                  }
+            req = requests.get(DATAGREPPER, params=params)
+            json_out = json.loads(req.text)
+            print "{0} - page: {1}/{2}".format(topic, cnt, json_out['pages'])
+            messages.extend(json_out['raw_messages'])
+            cnt += 1
+            if cnt > int(json_out['pages']):
+                break
+        json_out = messages
+    return json_out
 
+
+def get_fedora_contributors(datetime_to, datetime_from):
+    """ Retrieve the top contributors for that week for each topics
+
+    :arg datetime_to: a datetime object specifying the starting date and
+        time of the week to retrieve.
+    :arg datetime_from: a datetime object specifying the ending date and
+        time of the week to retrieve.
+
+    """
+    contributors = {}
+    topics = TOPICS.copy()
+    # ignore user creation in top users
+    if 'FAS user created' in topics:
+        del(topics['FAS user created'])
+
+    for topic in topics:
+        messages = query_datagrepper(
+            datetime_from, datetime_to, TOPICS[topic], full=True)
+        users = {}
+        for msg in messages:
+            for user in msg['meta']['usernames']:
+                if user in BLACK_LIST_USERS:
+                    continue
+                if user in users:
+                    users[user] += 1
+                else:
+                    users[user] = 1
+
+        # invert dict
+        ord_users = {}
+        for key in users:
+            if users[key] in ord_users:
+                ord_users[users[key]].append(key)
+            else:
+                ord_users[users[key]] = [key]
+
+        contributors[topic] = {}
+        for key in sorted(ord_users.keys(), reverse=True)[:3]:
+            contributors[topic][key] = ord_users[key]
+
+    return contributors
 
 
 def get_fedora_activity(datetime_to, datetime_from):
@@ -76,7 +144,7 @@ def get_fedora_activity(datetime_to, datetime_from):
 
 
 def create_blog_post(datetime_to, datetime_from, activities,
-        previous_activities):
+        previous_activities, top_contributors):
     """ Create a new blog post.
 
     :arg datetime_to: a datetime object specifying the starting date and
@@ -87,6 +155,8 @@ def create_blog_post(datetime_to, datetime_from, activities,
         of time it occured in the period of time.
     :arg previous_activities: a dictionnary giving information about the
         information the week before.
+    :arg top_contributors: a dictionnary giving information about the
+        top contributors of the week.
 
     """
 
@@ -106,11 +176,30 @@ def create_blog_post(datetime_to, datetime_from, activities,
             str(activities[activity]).rjust(10),
             diff.rjust(15))
 
+    top_user_entry = ""
+    for activity in sorted(top_contributors.keys()):
+        entry = ""
+        cnt = 0
+        for top in sorted(top_contributors[activity].keys(), reverse=True):
+            for contrib in sorted(top_contributors[activity][top]):
+                entry += "{0} ({1}), ".format(contrib, top)
+                cnt += 1
+                if cnt >= 3 :
+                    break
+        top_user_entry += "{0} {1} {2}\n".format(
+            activity.ljust(20),
+            " " * 5,
+            entry.strip(),
+        )
+
     content = """.. link:
 .. description:
 .. date: {date_now}
 .. title: Activities from {date_from} to {date_to}
 .. slug: {slug_date}
+
+Activities
+----------
 
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
@@ -118,12 +207,23 @@ Activities                 Amount     Diff to previous week
 {content}
 ======================    ========   ======================
 
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+{top_user}
+======================    ==============
+
 """.format(
     date_now=datetime_to.strftime('%Y/%m/%d %H:%M:%S'),
     date_from=datetime_from.strftime('%a, %d %b %Y'),
     date_to=datetime_to.strftime('%a, %d %b %Y'),
     slug_date=datetime_to.strftime('%Y_%m_%d'),
-    content=blog_entry.strip())
+    content=blog_entry.strip(),
+    top_user = top_user_entry.strip(),
+    )
 
     file_name = '{0}.txt'.format(datetime_to.strftime('%Y_%m_%d'))
     with open(os.path.join('posts', file_name), 'w') as stream:
@@ -202,6 +302,9 @@ def main(date_to):
 
     activities = get_fedora_activity(datetime_to, datetime_from)
 
+    top_contributors = get_fedora_contributors(
+        datetime_to, datetime_from)
+
     evolution = save_activities(datetime_to, activities)
 
     generate_svg(evolution)
@@ -213,7 +316,7 @@ def main(date_to):
 
 
     create_blog_post(datetime_to, datetime_from, activities,
-                     previous_activities)
+                     previous_activities, top_contributors)
 
 
 if __name__ == '__main__':
