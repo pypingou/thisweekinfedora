@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. date: 2013/06/18 19:41:46
+.. date: 2013/02/03 23:59:00
 .. title: Activities from Mon, 28 Jan 2013 to Sun, 03 Feb 2013
 .. slug: 2013_02_03
 

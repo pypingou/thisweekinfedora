@@ -1,6 +1,6 @@
 .. link:
 .. description:
-.. date: 2013/06/18 19:49:13
+.. date: 2013/05/26 23:59:00
 .. title: Activities from Mon, 20 May 2013 to Sun, 26 May 2013
 .. slug: 2013_05_26
 
