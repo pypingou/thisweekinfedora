@@ -23,7 +23,6 @@ DATAGREPPER = 'https://apps.fedoraproject.org/datagrepper/raw'
 TOPICS = {
     "Updates to stable" : 'org.fedoraproject.prod.bodhi.update.request.stable',
     "Updates to testing" : 'org.fedoraproject.prod.bodhi.update.request.testing',
-    "Updates to testing" : 'org.fedoraproject.prod.bodhi.update.request.testing',
     "Builds": 'org.fedoraproject.prod.buildsys.build.state.change',
     "FAS user created": 'org.fedoraproject.prod.fas.user.create',
     "Meeting started": 'org.fedoraproject.prod.meetbot.meeting.start',
