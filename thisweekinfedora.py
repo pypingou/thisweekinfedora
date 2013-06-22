@@ -180,8 +180,9 @@ def create_blog_post(datetime_to, datetime_from, activities,
             if old_activity == 0:
                 diff = 'NA'
             else:
-                diff = '{0:5.2f}%'.format(
-                    (activities[activity] * 100) / float(old_activity))
+                pcent = activities[activity] * 100 / float(old_activity) - 100
+                plus_sign = ['', '+'][pcent > 0]
+                diff = "{0}{1:5.2f}%".format(plus_sign, pcent)
 
         blog_entry += '{0} {1}  {2}\n'.format(
             activity.ljust(20),
