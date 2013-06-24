@@ -40,7 +40,7 @@ BLACK_LIST_USERS = ['zodbot', 'bodhi']
 def query_datagrepper(start, end, topic, full=False):
     """ Query datagrepper for the provided time period and topic and
     returns the number of events that occured then.
-    
+
     :arg start: a datetime object specifying when the time period to
         query started.
     :arg end: a datetime object specifying when the time period to
@@ -181,8 +181,8 @@ def create_blog_post(datetime_to, datetime_from, activities,
                 diff = 'NA'
             else:
                 pcent = activities[activity] * 100 / float(old_activity) - 100
-                plus_sign = ['', '+'][pcent > 0]
-                diff = "{0}{1:5.2f}%".format(plus_sign, pcent)
+                plus_sign = ['-', '+'][pcent > 0]
+                diff = "{0}{1:05.2f}%".format(plus_sign, math.fabs(pcent))
 
         blog_entry += '{0} {1}  {2}\n'.format(
             activity.ljust(20),
