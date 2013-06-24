@@ -28,14 +28,14 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
-Builds                     rdieter (277), jamielinux (55), averi (43),
-Edit on the wiki           stefw (120), zerng07 (49), boblfoot (40),
-Meeting completed          nirik (2), BadGirl (1), CodeBlock (1),
-Meeting started            alick (1),
-New packages               limb (59), msrb (7), doshitan (6),
-Posts on the planet        rjones (5), jsandys (4), kashyapc (3),
-Retired packages           averi (5), patches (4), rnovacek (4),
-Updates to stable          limb (29), ralph (16), pghmcfc (15),
-Updates to testing         jamielinux (42), averi (24), ralph (17),
+Builds                     rdieter (277), jamielinux (55), averi (43)
+Edit on the wiki           stefw (120), zerng07 (49), boblfoot (40)
+Meeting completed          nirik (2), BadGirl (1), CodeBlock (1)
+Meeting started            alick (1)
+New packages               limb (59), msrb (7), doshitan (6)
+Posts on the planet        rjones (5), jsandys (4), kashyapc (3)
+Retired packages           averi (5), patches (4), rnovacek (4)
+Updates to stable          limb (29), ralph (16), pghmcfc (15)
+Updates to testing         jamielinux (42), averi (24), ralph (17)
 ======================    ==============
 

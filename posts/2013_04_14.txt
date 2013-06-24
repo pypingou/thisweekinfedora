@@ -28,14 +28,14 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
-Builds                     limb (126), rdieter (114), spot (91),
-Edit on the wiki           limb (58), robatino (58), satellit (47),
-Meeting completed          jreznik (7), nirik (7), adamw (5),
-Meeting started            jreznik (2), nirik (2), sesivany (2),
-New packages               limb (35), pbabinca (13), patches (10),
-Posts on the planet        fab (5), ankursinha (3), gnokii (3),
-Retired packages           limb (4), ausil (3), llaumgui (3),
-Updates to stable          vicodan (51), asrob (21), limb (12),
-Updates to testing         limb (54), remi (24), vicodan (23),
+Builds                     limb (126), rdieter (114), spot (91)
+Edit on the wiki           limb (58), robatino (58), satellit (47)
+Meeting completed          jreznik (7), nirik (7), adamw (5)
+Meeting started            jreznik (2), nirik (2), sesivany (2)
+New packages               limb (35), pbabinca (13), patches (10)
+Posts on the planet        fab (5), ankursinha (3), gnokii (3)
+Retired packages           limb (4), ausil (3), llaumgui (3)
+Updates to stable          vicodan (51), asrob (21), limb (12)
+Updates to testing         limb (54), remi (24), vicodan (23)
 ======================    ==============
 

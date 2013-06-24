@@ -28,14 +28,14 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
-Builds                     salimma (47), jamielinux (29), scop (29),
-Edit on the wiki           adamwill (34), xosevp (15), fedoradummy (12),
-Meeting completed          alick (2), AndChat|366225 (1), BadGirl (1),
-Meeting started            alick (1), giallu (1), tuanta (1),
-New packages               limb (7), jamielinux (2), ppisar (2),
-Posts on the planet        jsimon (2), bckurera (1), berrange (1),
-Retired packages           limb (1),
-Updates to stable          ralph (38), fab (14), remi (7),
-Updates to testing         jamielinux (10), shakthimaan (10), salimma (9),
+Builds                     salimma (47), jamielinux (29), scop (29)
+Edit on the wiki           adamwill (34), xosevp (15), fedoradummy (12)
+Meeting completed          alick (2), AndChat|366225 (1), BadGirl (1)
+Meeting started            alick (1), giallu (1), tuanta (1)
+New packages               limb (7), jamielinux (2), ppisar (2)
+Posts on the planet        jsimon (2), bckurera (1), berrange (1)
+Retired packages           limb (1)
+Updates to stable          ralph (38), fab (14), remi (7)
+Updates to testing         jamielinux (10), shakthimaan (10), salimma (9)
 ======================    ==============
 

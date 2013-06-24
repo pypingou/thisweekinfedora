@@ -28,14 +28,14 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
-Builds                     ausil (2385), remi (118), kalev (97),
-Edit on the wiki           cmalfait (56), pwhalen (54), cicku (49),
+Builds                     ausil (2385), remi (118), kalev (97)
+Edit on the wiki           cmalfait (56), pwhalen (54), cicku (49)
 Meeting completed          
 Meeting started            
-New packages               limb (45), jamielinux (11), than (11),
-Posts on the planet        cicku (10), fitzsim (10), rtnpro (10),
-Retired packages           kevin (7), ausil (6), liangsuilong (4),
-Updates to stable          sdodson (24), pravins (15), mtasaka (12),
-Updates to testing         jamielinux (24), tdawson (20), vicodan (19),
+New packages               limb (45), jamielinux (11), than (11)
+Posts on the planet        cicku (10), fitzsim (10), rtnpro (10)
+Retired packages           kevin (7), ausil (6), liangsuilong (4)
+Updates to stable          sdodson (24), pravins (15), mtasaka (12)
+Updates to testing         jamielinux (24), tdawson (20), vicodan (19)
 ======================    ==============
 

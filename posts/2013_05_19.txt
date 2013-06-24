@@ -28,14 +28,14 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
-Builds                     spot (99), orion (80), rhughes (77),
-Edit on the wiki           boblfoot (67), zerng07 (66), 192.168.1.78 (45),
-Meeting completed          nirik (5), Viking-Ice (3), abadger1999 (3),
-Meeting started            tflink (2), Casper_v2 (1), adamw (1),
-New packages               limb (45), gil (16), ausil (7),
-Posts on the planet        ssp (8), dheche (4), mythcat (4),
-Retired packages           mclasen (2), praiskup (2), rkuska (2),
-Updates to stable          siwinski (66), ralph (23), raveit65 (19),
-Updates to testing         ralph (30), limb (23), gil (21),
+Builds                     spot (99), orion (80), rhughes (77)
+Edit on the wiki           boblfoot (67), zerng07 (66), 192.168.1.78 (45)
+Meeting completed          nirik (5), Viking-Ice (3), abadger1999 (3)
+Meeting started            tflink (2), Casper_v2 (1), adamw (1)
+New packages               limb (45), gil (16), ausil (7)
+Posts on the planet        ssp (8), dheche (4), mythcat (4)
+Retired packages           mclasen (2), praiskup (2), rkuska (2)
+Updates to stable          siwinski (66), ralph (23), raveit65 (19)
+Updates to testing         ralph (30), limb (23), gil (21)
 ======================    ==============
 
