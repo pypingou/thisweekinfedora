@@ -1,0 +1,41 @@
+.. link:
+.. description:
+.. date: 2013/03/03 23:59:00
+.. title: Activities from Mon, 25 Feb 2013 to Sun, 03 Mar 2013
+.. slug: 2013_03_03
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                      810           16.65%
+Edit on the wiki            193           29.51%
+FAS user created             13           28.26%
+Meeting completed             0               NA
+Meeting started               0               NA
+New packages                 12           24.00%
+Posts on the planet          36           31.86%
+Retired packages             14           37.84%
+Updates to stable           107           30.92%
+Updates to testing          165           39.01%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     ralph (67), salimma (37), toshio (34)
+Edit on the wiki           cicku (57), toshio (13), fedoradummy (8)
+Meeting completed          
+Meeting started            
+New packages               limb (12), jamielinux (6), than (2)
+Posts on the planet        brejc8 (10), rjones (5), fhornain (2)
+Retired packages           fab (7), kumarpraveen (6), dionysos (1)
+Updates to stable          tdawson (18), corsepiu (8), ralph (6)
+Updates to testing         ralph (38), mpaladin (12), mtasaka (8)
+======================    ==============
+
