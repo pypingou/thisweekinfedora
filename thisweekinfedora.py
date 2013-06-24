@@ -58,6 +58,9 @@ def query_datagrepper(start, end, topic, full=False):
                   }
         req = requests.get(DATAGREPPER, params=params)
         json_out = json.loads(req.text)
+        info = '{0}\r'.format(topic)
+        sys.stdout.write(info)
+        sys.stdout.flush()
         json_out = json_out['total']
     else:
         messages = []
@@ -72,8 +75,10 @@ def query_datagrepper(start, end, topic, full=False):
                   }
             req = requests.get(DATAGREPPER, params=params)
             json_out = json.loads(req.text)
-            print '{0} - page: {1}/{2}'.format(
+            info = '{0} - page: {1}/{2}\r'.format(
                 topic, cnt, json_out['pages'])
+            sys.stdout.write(info)
+            sys.stdout.flush()
             messages.extend(json_out['raw_messages'])
             cnt += 1
             if cnt > int(json_out['pages']):
@@ -96,6 +101,8 @@ def get_fedora_contributors(datetime_to, datetime_from):
     # ignore user creation in top users
     if 'FAS user created' in topics:
         del(topics['FAS user created'])
+
+    print 'Get contributions of week {0}'.format(datetime_from)
 
     for topic in topics:
         messages = query_datagrepper(
@@ -122,6 +129,8 @@ def get_fedora_contributors(datetime_to, datetime_from):
         for key in sorted(ord_users.keys(), reverse=True)[:3]:
             contributors[topic][key] = ord_users[key]
 
+    print '\n'
+
     return contributors
 
 
@@ -135,11 +144,13 @@ def get_fedora_activity(datetime_to, datetime_from):
         time of the week to retrieve.
 
     """
+    print 'Get activities of week {0}'.format(datetime_from)
 
     activities = {}
     for topic in TOPICS:
         activities[topic] = query_datagrepper(datetime_from, datetime_to,
                                               TOPICS[topic])
+    print '\n'
 
     return activities
 
