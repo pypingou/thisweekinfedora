@@ -21,16 +21,16 @@ import requests
 
 DATAGREPPER = 'https://apps.fedoraproject.org/datagrepper/raw'
 TOPICS = {
-    "Updates to stable" : 'org.fedoraproject.prod.bodhi.update.request.stable',
-    "Updates to testing" : 'org.fedoraproject.prod.bodhi.update.request.testing',
-    "Builds": 'org.fedoraproject.prod.buildsys.build.state.change',
-    "FAS user created": 'org.fedoraproject.prod.fas.user.create',
-    "Meeting started": 'org.fedoraproject.prod.meetbot.meeting.start',
-    "Meeting completed": 'org.fedoraproject.prod.meetbot.meeting.complete',
-    "New packages": 'org.fedoraproject.prod.pkgdb.package.new',
-    "Retired packages": 'org.fedoraproject.prod.pkgdb.package.retire',
-    "Posts on the planet": 'org.fedoraproject.prod.planet.post.new',
-    "Edit on the wiki": 'org.fedoraproject.prod.wiki.article.edit'
+    'Updates to stable' : 'org.fedoraproject.prod.bodhi.update.request.stable',
+    'Updates to testing' : 'org.fedoraproject.prod.bodhi.update.request.testing',
+    'Builds': 'org.fedoraproject.prod.buildsys.build.state.change',
+    'FAS user created': 'org.fedoraproject.prod.fas.user.create',
+    'Meeting started': 'org.fedoraproject.prod.meetbot.meeting.start',
+    'Meeting completed': 'org.fedoraproject.prod.meetbot.meeting.complete',
+    'New packages': 'org.fedoraproject.prod.pkgdb.package.new',
+    'Retired packages': 'org.fedoraproject.prod.pkgdb.package.retire',
+    'Posts on the planet': 'org.fedoraproject.prod.planet.post.new',
+    'Edit on the wiki': 'org.fedoraproject.prod.wiki.article.edit'
 }
 BLACK_LIST_USERS = ['zodbot', 'bodhi']
 
@@ -70,7 +70,7 @@ def query_datagrepper(start, end, topic, full=False):
                   }
             req = requests.get(DATAGREPPER, params=params)
             json_out = json.loads(req.text)
-            print "{0} - page: {1}/{2}".format(topic, cnt, json_out['pages'])
+            print '{0} - page: {1}/{2}'.format(topic, cnt, json_out['pages'])
             messages.extend(json_out['raw_messages'])
             cnt += 1
             if cnt > int(json_out['pages']):
@@ -159,7 +159,7 @@ def create_blog_post(datetime_to, datetime_from, activities,
 
     """
 
-    blog_entry = ""
+    blog_entry = ''
     for activity in sorted(activities.keys()):
         diff = 'NA'
         if activity in previous_activities:
@@ -167,28 +167,28 @@ def create_blog_post(datetime_to, datetime_from, activities,
             if old_activity == 0:
                 diff = 'NA'
             else:
-                diff = "{0:5.2f}%".format(
+                diff = '{0:5.2f}%'.format(
                     (activities[activity] * 100) / float(old_activity))
 
-        blog_entry += "{0} {1}  {2}\n".format(
+        blog_entry += '{0} {1}  {2}\n'.format(
             activity.ljust(20),
             str(activities[activity]).rjust(10),
             diff.rjust(15))
 
-    top_user_entry = ""
+    top_user_entry = ''
     for activity in sorted(top_contributors.keys()):
-        entry = ""
+        entry = ''
         cnt = 0
         for top in sorted(top_contributors[activity].keys(), reverse=True):
             for contrib in sorted(top_contributors[activity][top]):
                 if cnt >= 3:
                     break
-                entry += "{0} ({1}), ".format(contrib, top)
+                entry += '{0} ({1}), '.format(contrib, top)
                 cnt += 1
-        top_user_entry += "{0} {1} {2}\n".format(
+        top_user_entry += '{0} {1} {2}\n'.format(
             activity.ljust(20),
-            " " * 5,
-            entry.strip(),
+            ' ' * 5,
+            entry.rsplit(',', 1)[0].strip(),
         )
 
     content = """.. link:
