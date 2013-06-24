@@ -12,8 +12,10 @@ import calendar
 import json
 import math
 import os
+import sys
 from datetime import datetime
 from datetime import timedelta
+from multiprocessing import Pool
 
 import pygal
 import requests
@@ -70,7 +72,8 @@ def query_datagrepper(start, end, topic, full=False):
                   }
             req = requests.get(DATAGREPPER, params=params)
             json_out = json.loads(req.text)
-            print '{0} - page: {1}/{2}'.format(topic, cnt, json_out['pages'])
+            print '{0} - page: {1}/{2}'.format(
+                topic, cnt, json_out['pages'])
             messages.extend(json_out['raw_messages'])
             cnt += 1
             if cnt > int(json_out['pages']):
@@ -132,7 +135,6 @@ def get_fedora_activity(datetime_to, datetime_from):
         time of the week to retrieve.
 
     """
-    #print datetime_from, datetime_to
 
     activities = {}
     for topic in TOPICS:
@@ -290,14 +292,14 @@ def generate_svg(evolution):
                                            'assets', 'evolution.svg'))
 
 
-def main(date_to):
+def process_week(date_to):
     """ Main function.
     """
     datetime_to = datetime(date_to.year, date_to.month, date_to.day,
                            23, 59) - timedelta(days=1)
     datetime_from = datetime(date_to.year, date_to.month, date_to.day,
                              0, 0) - timedelta(days=7)
-    #print datetime_from, datetime_to
+    print 'Process week of {0}'.format(datetime_from)
 
     activities = get_fedora_activity(datetime_to, datetime_from)
 
@@ -317,34 +319,20 @@ def main(date_to):
     create_blog_post(datetime_to, datetime_from, activities,
                      previous_activities, top_contributors)
 
+def generate_history():
+    """ Generate all the dates from December 31 2012 and process each
+    week using multithreading to speed things up a little bit.
+    """
+    date_from = datetime(2012, 12, 31)
+    date_to_process = date_from
+    dates = []
+    while date_to_process < datetime.today():
+        dates.append(date_to_process)
+        date_to_process = date_to_process + timedelta(days=7)
+    p = Pool(5)
+    p.map(process_week, dates)
+
 
 if __name__ == '__main__':
-    for date_to in [
-                    datetime(2012, 12, 31),
-                    datetime(2013, 1, 7),
-                    datetime(2013, 1, 14),
-                    datetime(2013, 1, 21),
-                    datetime(2013, 1, 28),
-                    datetime(2013, 2, 4),
-                    datetime(2013, 2, 11),
-                    datetime(2013, 2, 18),
-                    datetime(2013, 2, 25),
-                    datetime(2013, 3, 5),
-                    datetime(2013, 3, 11),
-                    datetime(2013, 3, 18),
-                    datetime(2013, 3, 25),
-                    datetime(2013, 4, 1),
-                    datetime(2013, 4, 8),
-                    datetime(2013, 4, 15),
-                    datetime(2013, 4, 22),
-                    datetime(2013, 4, 29),
-                    datetime(2013, 5, 6),
-                    datetime(2013, 5, 13),
-                    datetime(2013, 5, 20),
-                    datetime(2013, 5, 27),
-                    datetime(2013, 6, 3),
-                    datetime(2013, 6, 10),
-                    datetime(2013, 6, 17),
-                    datetime(2013, 6, 24),
-                    ]:
-        main(date_to)
+    #generate_history()
+    process_week(datetime(2013, 6, 24))
