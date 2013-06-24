@@ -29,13 +29,13 @@ Top contributors of the week
 Activites                  Contributors
 ======================    ==============
 Builds                     
-Edit on the wiki           robatino (23), anipeter (22), fedoradummy (19),
+Edit on the wiki           robatino (23), anipeter (22), fedoradummy (19)
 Meeting completed          
 Meeting started            
 New packages               
 Posts on the planet        
 Retired packages           
-Updates to stable          denisarnaud (23), tdawson (20), siwinski (13),
-Updates to testing         mtasaka (34), rdieter (23), spot (14),
+Updates to stable          denisarnaud (23), tdawson (20), siwinski (13)
+Updates to testing         mtasaka (34), rdieter (23), spot (14)
 ======================    ==============
 

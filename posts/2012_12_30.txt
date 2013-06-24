@@ -29,13 +29,13 @@ Top contributors of the week
 Activites                  Contributors
 ======================    ==============
 Builds                     
-Edit on the wiki           churchyard (15), mschwendt (12), msalter (9),
+Edit on the wiki           churchyard (15), mschwendt (12), msalter (9)
 Meeting completed          
 Meeting started            
 New packages               
 Posts on the planet        
 Retired packages           
-Updates to stable          liangsuilong (19), mmckinst (17), petersen (16),
-Updates to testing         denisarnaud (27), remi (17), mcpierce (9),
+Updates to stable          liangsuilong (19), mmckinst (17), petersen (16)
+Updates to testing         denisarnaud (27), remi (17), mcpierce (9)
 ======================    ==============
 

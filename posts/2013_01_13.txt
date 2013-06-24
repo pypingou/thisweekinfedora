@@ -29,13 +29,13 @@ Top contributors of the week
 Activites                  Contributors
 ======================    ==============
 Builds                     
-Edit on the wiki           pwhalen (50), adamwill (37), robatino (35),
+Edit on the wiki           pwhalen (50), adamwill (37), robatino (35)
 Meeting completed          
 Meeting started            
 New packages               
 Posts on the planet        
 Retired packages           
-Updates to stable          mtasaka (32), remi (23), denisarnaud (20),
-Updates to testing         remi (24), ppisar (16), fab (15),
+Updates to stable          mtasaka (32), remi (23), denisarnaud (20)
+Updates to testing         remi (24), ppisar (16), fab (15)
 ======================    ==============
 

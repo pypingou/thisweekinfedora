@@ -29,13 +29,13 @@ Top contributors of the week
 Activites                  Contributors
 ======================    ==============
 Builds                     
-Edit on the wiki           cicku (72), toshio (35), lennart (28),
+Edit on the wiki           cicku (72), toshio (35), lennart (28)
 Meeting completed          
 Meeting started            
 New packages               
 Posts on the planet        
-Retired packages           nb (2),
-Updates to stable          ralph (30), remi (22), mcpierce (14),
-Updates to testing         limb (25), remi (22), churchyard (16),
+Retired packages           nb (2)
+Updates to stable          ralph (30), remi (22), mcpierce (14)
+Updates to testing         limb (25), remi (22), churchyard (16)
 ======================    ==============
 
