@@ -1,0 +1,41 @@
+.. link:
+.. description:
+.. date: 2013/06/23 23:59:00
+.. title: Activities from Mon, 17 Jun 2013 to Sun, 23 Jun 2013
+.. slug: 2013_06_23
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                     4053          129.82%
+Edit on the wiki            729          101.96%
+FAS user created            126          131.25%
+Meeting completed            19         1900.00%
+Meeting started              19         1900.00%
+New packages                 52          115.56%
+Posts on the planet          89          136.92%
+Retired packages             14          100.00%
+Updates to stable           408           81.11%
+Updates to testing          687          118.86%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     petersen (233), patches (123), kalev (99)
+Edit on the wiki           pwhalen (81), robatino (43), fedoradummy (28)
+Meeting completed          nirik (8), aeperezt (4), biker (4)
+Meeting started            tflink (3), aeperezt (2), nirik (2)
+New packages               limb (44), jamielinux (11), kevin (8)
+Posts on the planet        mfojtik (10), davej (7), pocock (4)
+Retired packages           mcpierce (6), limb (3), herlo (2)
+Updates to stable          asrob (20), terjeros (20), gil (17)
+Updates to testing         jamielinux (57), siwinski (44), patches (33)
+======================    ==============
+
