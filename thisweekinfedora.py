@@ -181,10 +181,10 @@ def create_blog_post(datetime_to, datetime_from, activities,
         cnt = 0
         for top in sorted(top_contributors[activity].keys(), reverse=True):
             for contrib in sorted(top_contributors[activity][top]):
+                if cnt >= 3:
+                    break
                 entry += "{0} ({1}), ".format(contrib, top)
                 cnt += 1
-                if cnt >= 3 :
-                    break
         top_user_entry += "{0} {1} {2}\n".format(
             activity.ljust(20),
             " " * 5,
@@ -345,5 +345,6 @@ if __name__ == '__main__':
                     datetime(2013, 6, 3),
                     datetime(2013, 6, 10),
                     datetime(2013, 6, 17),
+                    datetime(2013, 6, 24),
                     ]:
         main(date_to)
