@@ -28,10 +28,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
-Builds                     patches (146), spot (146), siwinski (115), kalev (97),
+Builds                     patches (146), spot (146), siwinski (115),
 Edit on the wiki           jskarvad (92), pwhalen (78), duffy (68),
 Meeting completed          nirik (9), jreznik (7), jsmith (6),
-Meeting started            nirik (2), suehle (2), tflink (2), FranciscoD (1),
+Meeting started            nirik (2), suehle (2), tflink (2),
 New packages               limb (22), pbabinca (5), ppisar (3),
 Posts on the planet        cicku (13), rjones (9), gnokii (5),
 Retired packages           lbazan (6), humaton (4), cdamian (2),

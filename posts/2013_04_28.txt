@@ -34,7 +34,7 @@ Meeting completed          nirik (7), jreznik (5), jsmith (4),
 Meeting started            aeperezt (3), nirik (2), adamw (1),
 New packages               limb (81), siwinski (14), churchyard (6),
 Posts on the planet        rbhalera (25), spot (5), mythcat (4),
-Retired packages           limb (5), sundaram (4), tibbs (4), spot (2),
+Retired packages           limb (5), sundaram (4), tibbs (4),
 Updates to stable          jamielinux (19), lmacken (18), remi (14),
 Updates to testing         siwinski (70), limb (42), ralph (30),
 ======================    ==============

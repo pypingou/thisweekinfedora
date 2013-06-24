@@ -30,11 +30,11 @@ Activites                  Contributors
 ======================    ==============
 Builds                     limb (117), jwrdegoede (55), kalev (51),
 Edit on the wiki           jonathanhindi (145), axilleas (79), robatino (59),
-Meeting completed          camm (5), nirik (5), ghislop (4), PattiO (3),
+Meeting completed          camm (5), nirik (5), ghislop (4),
 Meeting started            FranciscoD (1), abadger1999 (1), adamw (1),
 New packages               limb (38), gil (4), msrb (3),
 Posts on the planet        alexove (25), spot (4), fabiand (3),
-Retired packages           jwrdegoede (12), mmorsi (12), smooge (8), spot (4),
+Retired packages           jwrdegoede (12), mmorsi (12), smooge (8),
 Updates to stable          limb (68), siwinski (17), churchyard (15),
 Updates to testing         limb (54), jwrdegoede (22), pghmcfc (21),
 ======================    ==============

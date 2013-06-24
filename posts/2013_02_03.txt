@@ -36,6 +36,6 @@ New packages               limb (7), patches (3), dwrobel (1),
 Posts on the planet        
 Retired packages           sundaram (3), cassmodiah (2), narasim (1),
 Updates to stable          mhlavink (6), nb (5), fcami (4),
-Updates to testing         mcpierce (8), jsmith (5), mpaladin (5), ajax (4),
+Updates to testing         mcpierce (8), jsmith (5), mpaladin (5),
 ======================    ==============
 

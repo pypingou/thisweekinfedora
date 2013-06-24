@@ -30,7 +30,7 @@ Activites                  Contributors
 ======================    ==============
 Builds                     
 Edit on the wiki           jreznik (53), cicku (41), adamwill (38),
-Meeting completed          abadger1999 (4), nirik (4), dgilmore (3), epico (2),
+Meeting completed          abadger1999 (4), nirik (4), dgilmore (3),
 Meeting started            nirik (2), abadger1999 (1), aeperezt (1),
 New packages               limb (48), tradej (6), bochecha (4),
 Posts on the planet        

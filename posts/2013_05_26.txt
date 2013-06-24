@@ -30,11 +30,11 @@ Activites                  Contributors
 ======================    ==============
 Builds                     ellert (109), jamielinux (90), rdieter (77),
 Edit on the wiki           pwhalen (86), kparal (82), tassadar (74),
-Meeting completed          nirik (9), jreznik (6), tflink (6), adamw (5),
-Meeting started            jreznik (2), nirik (2), tflink (2), LoKoMurdoK (1),
+Meeting completed          nirik (9), jreznik (6), tflink (6),
+Meeting started            jreznik (2), nirik (2), tflink (2),
 New packages               limb (50), cicku (6), epienbro (3),
 Posts on the planet        fossjon (11), tnorth (8), davej (5),
-Retired packages           bruno (4), crobinso (4), herlo (2), limb (1),
+Retired packages           bruno (4), crobinso (4), herlo (2),
 Updates to stable          jamielinux (40), gil (18), limb (17),
 Updates to testing         jamielinux (55), whot (35), denisarnaud (33),
 ======================    ==============
