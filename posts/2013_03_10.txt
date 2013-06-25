@@ -10,16 +10,16 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
-Builds                        0            0.00%
-Edit on the wiki              0            0.00%
-FAS user created              0            0.00%
+Builds                        0         -100.00%
+Edit on the wiki              0         -100.00%
+FAS user created              0         -100.00%
 Meeting completed             0               NA
 Meeting started               0               NA
-New packages                  0            0.00%
-Posts on the planet           0            0.00%
-Retired packages              0            0.00%
-Updates to stable             0            0.00%
-Updates to testing            0            0.00%
+New packages                  0         -100.00%
+Posts on the planet           0         -100.00%
+Retired packages              0         -100.00%
+Updates to stable             0         -100.00%
+Updates to testing            0         -100.00%
 ======================    ========   ======================
 
 Top contributors of the week

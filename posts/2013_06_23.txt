@@ -10,16 +10,16 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
-Builds                     4053          129.82%
-Edit on the wiki            729          101.96%
-FAS user created            126          131.25%
-Meeting completed            19         1900.00%
-Meeting started              19         1900.00%
-New packages                 52          115.56%
-Posts on the planet          89          136.92%
-Retired packages             14          100.00%
-Updates to stable           408           81.11%
-Updates to testing          687          118.86%
+Builds                     4053          +29.82%
+Edit on the wiki            729          +01.96%
+FAS user created            126          +31.25%
+Meeting completed            19        +1800.00%
+Meeting started              19        +1800.00%
+New packages                 52          +15.56%
+Posts on the planet          89          +36.92%
+Retired packages             14          -00.00%
+Updates to stable           408          -18.89%
+Updates to testing          687          +18.86%
 ======================    ========   ======================
 
 Top contributors of the week

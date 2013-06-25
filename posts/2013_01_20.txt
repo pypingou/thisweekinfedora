@@ -11,15 +11,15 @@ Activities
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Builds                        0               NA
-Edit on the wiki           1008          118.59%
-FAS user created             60          136.36%
+Edit on the wiki           1008          +18.59%
+FAS user created             60          +36.36%
 Meeting completed             0               NA
 Meeting started               0               NA
 New packages                  0               NA
 Posts on the planet           0               NA
 Retired packages              2               NA
-Updates to stable           380          102.98%
-Updates to testing          529           99.62%
+Updates to stable           380          +02.98%
+Updates to testing          529          -00.38%
 ======================    ========   ======================
 
 Top contributors of the week
