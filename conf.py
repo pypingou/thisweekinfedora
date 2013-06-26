@@ -272,7 +272,10 @@ THEME = 'thisweekinfedora'
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>'
+CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a> '\
+                 'for the <a href="https://fedoraproject.org">Fedora Project</a>'\
+                 ' - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>'\
+                 ' - <a href="https://github.com/pypingou/thisweekinfedora">Sources on github</a>'
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year)
