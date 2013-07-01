@@ -110,8 +110,15 @@ def get_fedora_contributors(datetime_to, datetime_from):
         users = {}
         for msg in messages:
             for user in msg['meta']['usernames']:
+                # Some users are system accounts.
                 if user in BLACK_LIST_USERS:
                     continue
+
+                # Other returned users aren't actually responsible for the
+                # event in a way that we want counted.  (SCM admins, here)
+                if topic == 'New packages' and user == msg['msg']['agent']:
+                    continue
+
                 if user in users:
                     users[user] += 1
                 else:
