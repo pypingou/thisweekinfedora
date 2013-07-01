@@ -347,4 +347,4 @@ def generate_history():
 
 if __name__ == '__main__':
     #generate_history()
-    process_week(datetime(2013, 6, 24))
+    process_week(datetime(2013, 7, 1))
