@@ -32,7 +32,7 @@ Builds                     ausil (8935), limb (93), whot (89)
 Edit on the wiki           pwhalen (90), cmalfait (73), limb (64)
 Meeting completed          
 Meeting started            
-New packages               limb (70), than (24), jamielinux (9)
+New packages               than (24), jamielinux (9), patches (7)
 Posts on the planet        fantom (21), affix (10), lmacken (7)
 Retired packages           limb (5), minh (4), mrunge (2)
 Updates to stable          mtasaka (12), spot (11), jjames (8)

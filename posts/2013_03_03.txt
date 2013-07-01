@@ -32,7 +32,7 @@ Builds                     ralph (67), salimma (37), toshio (34)
 Edit on the wiki           cicku (57), toshio (13), fedoradummy (8)
 Meeting completed          
 Meeting started            
-New packages               limb (12), jamielinux (6), than (2)
+New packages               jamielinux (6), than (2), adamwill (1)
 Posts on the planet        brejc8 (10), rjones (5), fhornain (2)
 Retired packages           fab (7), kumarpraveen (6), dionysos (1)
 Updates to stable          tdawson (18), corsepiu (8), ralph (6)
