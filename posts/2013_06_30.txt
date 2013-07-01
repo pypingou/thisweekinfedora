@@ -1,0 +1,41 @@
+.. link:
+.. description:
+.. date: 2013/06/30 23:59:00
+.. title: Activities from Mon, 24 Jun 2013 to Sun, 30 Jun 2013
+.. slug: 2013_06_30
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                     3915          -03.40%
+Edit on the wiki            911          +24.97%
+FAS user created            127          +00.79%
+Meeting completed            26          +36.84%
+Meeting started              26          +36.84%
+New packages                 37          -28.85%
+Posts on the planet         115          +29.21%
+Retired packages             19          +35.71%
+Updates to stable           449          +10.05%
+Updates to testing          600          -12.66%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     patches (256), rdieter (217), siwinski (88)
+Edit on the wiki           kparal (95), adamwill (93), pwhalen (66)
+Meeting completed          dgilmore (9), nirik (9), jreznik (5)
+Meeting started            threebean (4), jreznik (2), nirik (2)
+New packages               limb (37), siwinski (16), jamielinux (5)
+Posts on the planet        danniel (25), bcl (9), davej (8)
+Retired packages           fab (8), steved (5), bkabrda (2)
+Updates to stable          remi (19), jamielinux (16), siwinski (14)
+Updates to testing         siwinski (67), jamielinux (36), raveit65 (22)
+======================    ==============
+
