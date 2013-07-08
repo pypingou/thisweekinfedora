@@ -1,0 +1,41 @@
+.. link:
+.. description:
+.. date: 2013/07/07 23:59:00
+.. title: Activities from Mon, 01 Jul 2013 to Sun, 07 Jul 2013
+.. slug: 2013_07_07
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                     3589          -08.33%
+Edit on the wiki            753          -17.34%
+FAS user created            130          +02.36%
+Meeting completed            14          -46.15%
+Meeting started              14          -46.15%
+New packages                 64          +72.97%
+Posts on the planet         151          +31.30%
+Retired packages              5          -73.68%
+Updates to stable           396          -11.80%
+Updates to testing          657          +09.50%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     siwinski (172), than (161), jamielinux (150)
+Edit on the wiki           shadowman (58), renault (53), adamwill (39)
+Meeting completed          nirik (5), aeperezt (4), LoKoMurdoK (3)
+Meeting started            sesivany (2), sgallagh (2), FranciscoD (1)
+New packages               siwinski (13), cicku (9), remi (8)
+Posts on the planet        shakthimaan (43), pingou (10), udinnet (10)
+Retired packages           remi (3), limb (1), orion (1)
+Updates to stable          jamielinux (50), patches (26), siwinski (22)
+Updates to testing         jamielinux (98), siwinski (52), remi (37)
+======================    ==============
+
