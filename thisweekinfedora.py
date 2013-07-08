@@ -37,6 +37,15 @@ TOPICS = {
 BLACK_LIST_USERS = ['zodbot', 'bodhi']
 
 
+def get_week_start():
+    """ Return the date of the Monday of the current week.
+    """
+    now = datetime.utcnow()
+    week_day = datetime(now.year, now.month, now.day)
+    week_start = week_day - timedelta(days=week_day.weekday())
+    return week_start
+
+
 def query_datagrepper(start, end, topic, full=False):
     """ Query datagrepper for the provided time period and topic and
     returns the number of events that occured then.
@@ -311,9 +320,11 @@ def generate_svg(evolution):
                                            'assets', 'evolution.svg'))
 
 
-def process_week(date_to):
+def process_week(date_to=None):
     """ Main function.
     """
+    if date_to is None:
+        date_to = get_week_start()
     datetime_to = datetime(date_to.year, date_to.month, date_to.day,
                            23, 59) - timedelta(days=1)
     datetime_from = datetime(date_to.year, date_to.month, date_to.day,
@@ -354,4 +365,5 @@ def generate_history():
 
 if __name__ == '__main__':
     #generate_history()
-    process_week(datetime(2013, 7, 1))
+    #process_week(datetime(2013, 7, 1))  # Date of the Monday
+    process_week()
