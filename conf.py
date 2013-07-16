@@ -18,7 +18,7 @@ SITE_URL = "http://thisweekinfedora.org"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
 BLOG_EMAIL = "pingou@pingoured.fr"
-BLOG_DESCRIPTION = "Weekly new of the community's activity"
+BLOG_DESCRIPTION = "Weekly news of the community's activity"
 
 # Nikola is multilingual!
 #
