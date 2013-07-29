@@ -1,0 +1,41 @@
+.. link:
+.. description:
+.. date: 2013/07/28 23:59:00
+.. title: Activities from Mon, 22 Jul 2013 to Sun, 28 Jul 2013
+.. slug: 2013_07_28
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Builds                     5758          -07.68%
+Edit on the wiki            874          -29.63%
+FAS user created            127          -05.93%
+Meeting completed            14          -54.84%
+Meeting started              14          -51.72%
+New packages                 47          +14.63%
+Posts on the planet          75          -05.06%
+Retired packages              9          -30.77%
+Updates to stable           346          -26.38%
+Updates to testing          588          +19.51%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Builds                     ppisar (559), rdieter (312), pmachata (165)
+Edit on the wiki           adamwill (108), johannbg (73), jreznik (67)
+Meeting completed          nirik (5), abadger1999 (3), dgilmore (3)
+Meeting started            nirik (2), abadger1999 (1), adamw (1)
+New packages               brouhaha (5), cicku (5), gil (4)
+Posts on the planet        oddshocks (5), davej (4), schaiba (4)
+Retired packages           mcpierce (4), akurtakov (2), deji (1)
+Updates to stable          jamielinux (18), limb (17), cicku (12)
+Updates to testing         jamielinux (95), brouhaha (22), ellert (21)
+======================    ==============
+
