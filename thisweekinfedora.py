@@ -32,7 +32,8 @@ TOPICS = {
     'New packages': 'org.fedoraproject.prod.pkgdb.package.new',
     'Retired packages': 'org.fedoraproject.prod.pkgdb.package.retire',
     'Posts on the planet': 'org.fedoraproject.prod.planet.post.new',
-    'Edit on the wiki': 'org.fedoraproject.prod.wiki.article.edit'
+    'Edit on the wiki': 'org.fedoraproject.prod.wiki.article.edit',
+    'Badges awarded': 'org.fedoraproject.prod.fedbadges.badge.award',
 }
 BLACK_LIST_USERS = ['zodbot', 'bodhi']
 
