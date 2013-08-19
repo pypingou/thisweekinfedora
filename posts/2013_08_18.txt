@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/08/18 23:59:00
+.. title: Activities from Mon, 12 Aug 2013 to Sun, 18 Aug 2013
+.. slug: 2013_08_18
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             2397          -19.62%
+Builds                     3183          -40.08%
+Edit on the wiki            896          -09.22%
+FAS user created            142          -20.67%
+Meeting completed            32          -69.81%
+Meeting started              29          -70.41%
+New packages                 39          -20.41%
+Posts on the planet          69          -45.24%
+Retired packages             10          -88.24%
+Updates to stable           351          -20.95%
+Updates to testing          421          -17.29%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             jamielinux (39), lbazan (30), akurtakov (26)
+Builds                     jplesnik (92), mtasaka (51), rdieter (45)
+Edit on the wiki           pinkpony (105), dcantrel (101), johannbg (42)
+Meeting completed          suehle (9), halfline (8), jsmith (8)
+Meeting started            suehle (6), halfline (5), adamw (2)
+New packages               tomh (7), besser82 (6), than (6)
+Posts on the planet        mythcat (4), rstrode (4), berrange (3)
+Retired packages           vicodan (3), bojan (1), goldmann (1)
+Updates to stable          jamielinux (36), cicku (20), raveit65 (19)
+Updates to testing         besser82 (30), asrob (21), cicku (16)
+======================    ==============
+

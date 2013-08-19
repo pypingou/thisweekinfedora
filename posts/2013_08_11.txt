@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/08/11 23:59:00
+.. title: Activities from Mon, 05 Aug 2013 to Sun, 11 Aug 2013
+.. slug: 2013_08_11
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             2982               NA
+Builds                     5312          -82.77%
+Edit on the wiki            987          +12.29%
+FAS user created            179          +55.65%
+Meeting completed           106         +562.50%
+Meeting started              98         +512.50%
+New packages                 49          +16.67%
+Posts on the planet         126          +93.85%
+Retired packages             85        +1114.29%
+Updates to stable           444          +42.31%
+Updates to testing          509          +16.21%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             kevin (31), spot (30), cicku (29)
+Builds                     rdieter (223), ppisar (151), siwinski (125)
+Edit on the wiki           duffy (90), johannbg (86), ppisar (79)
+Meeting completed          nb (34), mizmo (24), ianweller (22)
+Meeting started            mizmo (12), threebean (10), flock-ectr112 (8)
+New packages               msuchy (5), yograterol (5), anujmore (4)
+Posts on the planet        vincentvdk (39), jondkent (20), slaanesh (10)
+Retired packages           slaanesh (45), gil (10), jerboaa (7)
+Updates to stable          jamielinux (96), ralph (16), ellert (13)
+Updates to testing         asrob (35), cicku (22), raveit65 (22)
+======================    ==============
+
