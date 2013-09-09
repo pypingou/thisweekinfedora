@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/09/08 23:59:00
+.. title: Activities from Mon, 02 Sep 2013 to Sun, 08 Sep 2013
+.. slug: 2013_09_08
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1951          +07.55%
+Builds                     4988          +06.79%
+Edit on the wiki            828          +01.85%
+FAS user created            178          +09.88%
+Meeting completed            19          +72.73%
+Meeting started              19          +72.73%
+New packages                 34          -46.03%
+Posts on the planet         100          +13.64%
+Retired packages             21          -71.23%
+Updates to stable           307          -08.08%
+Updates to testing          601          +37.53%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             jvanek (16), jmarrero (14), codeblock (13)
+Builds                     rdieter (1189), jamielinux (283), kalev (192)
+Edit on the wiki           robatino (61), pwhalen (54), sbueno (50)
+Meeting completed          nirik (5), dgilmore (4), handsome_pirate (4)
+Meeting started            tflink (2), FranciscoD (1), Kevin_Kofler (1)
+New packages               pghmcfc (5), orion (4), jamielinux (2)
+Posts on the planet        hrw (10), ryanlerch (10), themonteiro (9)
+Retired packages           limb (8), heffer (5), till (5)
+Updates to stable          cicku (20), jamielinux (18), aalvarez (17)
+Updates to testing         jamielinux (70), pghmcfc (21), peter (19)
+======================    ==============
+
