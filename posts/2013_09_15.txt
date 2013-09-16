@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/09/15 23:59:00
+.. title: Activities from Mon, 09 Sep 2013 to Sun, 15 Sep 2013
+.. slug: 2013_09_15
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1502          -23.01%
+Builds                     4836          -03.05%
+Edit on the wiki            998          +20.53%
+FAS user created            136          -23.60%
+Meeting completed            19          -00.00%
+Meeting started              19          -00.00%
+New packages                 36          +05.88%
+Posts on the planet         131          +31.00%
+Retired packages             17          -19.05%
+Updates to stable           371          +20.85%
+Updates to testing          824          +37.10%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             besser82 (14), jfilak (14), nathans (11)
+Builds                     rdieter (180), rjones (148), pghmcfc (121)
+Edit on the wiki           mgiri (59), robatino (52), kparal (43)
+Meeting completed          nirik (8), jreznik (6), tflink (6)
+Meeting started            tflink (3), jreznik (2), nirik (2)
+New packages               ktdreyer (3), pghmcfc (3), smani (3)
+Posts on the planet        comzeradd (42), ardian (9), mavjs (6)
+Retired packages           harald (4), ausil (3), cicku (3)
+Updates to stable          peter (21), pghmcfc (14), petersen (13)
+Updates to testing         pghmcfc (30), raveit65 (30), remi (29)
+======================    ==============
+
