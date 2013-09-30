@@ -11,7 +11,7 @@ rm -rf output/
 # Rebuild the website
 nikola build
 
-DATE=`date +"%Y_%m_%d"`
+DATE=`date +"%Y_%m_%d" --date "now - 1 day"`
 
 git add posts/$DATE.txt
 git add evolution.txt
