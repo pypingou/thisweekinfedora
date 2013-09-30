@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/09/29 23:59:00
+.. title: Activities from Mon, 23 Sep 2013 to Sun, 29 Sep 2013
+.. slug: 2013_09_29
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1036          -14.24%
+Builds                     4809          -48.01%
+Edit on the wiki            871          +03.44%
+FAS user created            145          +08.21%
+Meeting completed            16          -23.81%
+Meeting started              16          -20.00%
+New packages                 33          -08.33%
+Posts on the planet         107          +46.58%
+Retired packages             18          -52.63%
+Updates to stable           574          +10.17%
+Updates to testing          629          -10.53%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             maci (11), fenris02 (8), kkeithle (8)
+Builds                     rdieter (1217), kalev (444), leigh123linux (97)
+Edit on the wiki           besser82 (119), anipeter (67), pwhalen (31)
+Meeting completed          abadger1999 (5), nirik (4), Viking-Ice (3)
+Meeting started            abadger1999 (2), sesivany (2), tflink (2)
+New packages               lkundrak (3), smani (3), besser82 (2)
+Posts on the planet        oddshocks (36), adamwill (5), ardian (4)
+Retired packages           besser82 (6), notting (4), vicodan (3)
+Updates to stable          jamielinux (76), rdieter (22), pghmcfc (14)
+Updates to testing         raveit65 (26), mcpierce (21), remi (19)
+======================    ==============
+
