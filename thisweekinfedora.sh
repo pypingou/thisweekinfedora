@@ -17,5 +17,5 @@ git add posts/$DATE.txt
 git add evolution.txt
 git add themes/thisweekinfedora/assets/evolution.svg
 git commit -m "Weekly update"
-#git push
+git push
 
