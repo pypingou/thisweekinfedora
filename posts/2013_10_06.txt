@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/10/06 23:59:00
+.. title: Activities from Mon, 30 Sep 2013 to Sun, 06 Oct 2013
+.. slug: 2013_10_06
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              904          -12.74%
+Builds                     3073          -36.10%
+Edit on the wiki            801          -08.04%
+FAS user created            194          +33.79%
+Meeting completed             9          -43.75%
+Meeting started               9          -43.75%
+New packages                 18          -45.45%
+Posts on the planet          90          -15.89%
+Retired packages             20          +11.11%
+Updates to stable           403          -29.79%
+Updates to testing          579          -07.95%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             kdaniel (11), ferox (8), bellet (7)
+Builds                     leigh123linux (174), rdieter (153), kdaniel (88)
+Edit on the wiki           churchyard (38), ferox (31), tonet666p (31)
+Meeting completed          handsome_pirate (4), jreznik (3), tflink (3)
+Meeting started            adamw (1), eseyman (1), handsome_pirate (1)
+New packages               puiterwijk (3), baptistemm (1), bsjones (1)
+Posts on the planet        sgallagh (12), rjones (6), aeperezt (5)
+Retired packages           radford (6), remi (6), poetinha (4)
+Updates to stable          pghmcfc (30), raveit65 (19), remi (14)
+Updates to testing         rdieter (26), pghmcfc (21), besser82 (18)
+======================    ==============
+
