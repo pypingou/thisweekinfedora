@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/10/13 23:59:00
+.. title: Activities from Mon, 07 Oct 2013 to Sun, 13 Oct 2013
+.. slug: 2013_10_13
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              918          +01.55%
+Builds                     3428          +11.55%
+Edit on the wiki           1211          +51.19%
+FAS user created            119          -38.66%
+Meeting completed             6          -33.33%
+Meeting started               6          -33.33%
+New packages                 29          +61.11%
+Posts on the planet         112          +24.44%
+Retired packages              6          -70.00%
+Updates to stable           401          -00.50%
+Updates to testing          680          +17.44%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             pwu (9), yograterol (9), echevemaster (8)
+Builds                     rdieter (145), mtasaka (107), lsm5 (76)
+Edit on the wiki           rolffokkens (162), alyaj2a (60), zerng07 (42)
+Meeting completed          threebean (3), abadger1999 (2), nirik (2)
+Meeting started            threebean (2), alick (1), ignatenkobrain (1)
+New packages               goldmann (4), tdawson (3), bsjones (2)
+Posts on the planet        smooge (25), wolnei (14), atodorov (7)
+Retired packages           limb (3), joev (2), thm (1)
+Updates to stable          rdieter (24), pghmcfc (22), mtasaka (17)
+Updates to testing         lsm5 (27), rdieter (27), raveit65 (25)
+======================    ==============
+
