@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/10/27 23:59:00
+.. title: Activities from Mon, 21 Oct 2013 to Sun, 27 Oct 2013
+.. slug: 2013_10_27
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              859          +00.94%
+Builds                     3377          -19.29%
+Edit on the wiki            664          +02.31%
+FAS user created            130          +17.12%
+Meeting completed            22          +15.79%
+Meeting started              22          +15.79%
+New packages                 56          +19.15%
+Posts on the planet          89          +15.58%
+Retired packages             28          +64.71%
+Updates to stable           442          +10.22%
+Updates to testing          611          -09.62%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             pnemade (12), harviak (9), verdurin (8)
+Builds                     lkundrak (158), peter (111), ajax (110)
+Edit on the wiki           churchyard (67), satellit (59), pwhalen (53)
+Meeting completed          nirik (7), adamw (6), jreznik (6)
+Meeting started            FranciscoD (2), adamw (2), jreznik (2)
+New packages               daveisfera (5), remi (5), goldmann (3)
+Posts on the planet        rtnpro (13), mythcat (4), rjones (4)
+Retired packages           xavierb (8), bcl (4), kkeithle (3)
+Updates to stable          pghmcfc (22), adev (20), raveit65 (16)
+Updates to testing         ralph (24), peter (23), remi (22)
+======================    ==============
+
