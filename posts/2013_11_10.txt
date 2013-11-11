@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/11/10 23:59:00
+.. title: Activities from Mon, 04 Nov 2013 to Sun, 10 Nov 2013
+.. slug: 2013_11_10
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              801          -04.07%
+Builds                     3526          -23.91%
+Edit on the wiki           1136          +28.94%
+FAS user created            123          +08.85%
+Meeting completed            28          +16.67%
+Meeting started              29          +20.83%
+New packages                 33          -17.50%
+Posts on the planet         105          +36.36%
+Retired packages              4          -55.56%
+Updates to stable           444          -08.83%
+Updates to testing          558          -00.71%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             sophiekovalevsky (8), monnerat (7), fche (6)
+Builds                     ellert (496), rdieter (192), asrob (112)
+Edit on the wiki           johannbg (83), kparal (78), duffy (64)
+Meeting completed          jreznik (8), nirik (7), sgallagh (6)
+Meeting started            abadger1999 (3), lorip (2), sesivany (2)
+New packages               ktdreyer (8), pcpa (3), cicku (2)
+Posts on the planet        caolanm (10), chuck (10), constanton (9)
+Retired packages           ablu (1), msrb (1), peter (1)
+Updates to stable          fab (18), ralph (16), daveisfera (15)
+Updates to testing         asrob (45), cicku (34), nphilipp (22)
+======================    ==============
+
