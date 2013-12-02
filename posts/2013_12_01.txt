@@ -1,0 +1,43 @@
+.. link:
+.. description:
+.. date: 2013/12/01 23:59:00
+.. title: Activities from Mon, 25 Nov 2013 to Sun, 01 Dec 2013
+.. slug: 2013_12_01
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              637          +26.89%
+Builds                     3467          +03.18%
+Edit on the wiki            656          -30.66%
+FAS user created            103          -00.00%
+Meeting completed            10          -23.08%
+Meeting started              10          -23.08%
+New packages                 32          -25.58%
+Posts on the planet          98          -20.97%
+Retired packages             11          +22.22%
+Updates to stable           317          -20.55%
+Updates to testing          594          +17.86%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             mpaladin (12), mri6889 (7), williamjmorenor (7)
+Builds                     rdieter (589), siwinski (277), ellert (104)
+Edit on the wiki           chrisroberts (77), satellit (51), pwhalen (34)
+Meeting completed          sgallagh (3), Viking-Ice (2), jreznik (2)
+Meeting started            threebean (2), aeperezt (1), alick (1)
+New packages               ktdreyer (5), mtasaka (3), cicku (2)
+Posts on the planet        dbmacartney (46), schaiba (5), yograterol (3)
+Retired packages           spot (5), msivak (4), kkeithle (1)
+Updates to stable          terjeros (24), adev (14), ellert (11)
+Updates to testing         asrob (24), ellert (23), mpaladin (15)
+======================    ==============
+
