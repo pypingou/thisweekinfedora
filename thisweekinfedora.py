@@ -34,6 +34,8 @@ TOPICS = {
     'Posts on the planet': 'org.fedoraproject.prod.planet.post.new',
     'Edit on the wiki': 'org.fedoraproject.prod.wiki.article.edit',
     'Badges awarded': 'org.fedoraproject.prod.fedbadges.badge.award',
+    'Copr build started': 'org.fedoraproject.prod.copr.build.start',
+    'Copr build completed': 'org.fedoraproject.prod.copr.build.end',
 }
 BLACK_LIST_USERS = ['zodbot', 'bodhi']
 
