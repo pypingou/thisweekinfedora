@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                        0               NA
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            538          -45.10%
 FAS user created             13          -75.00%
 Meeting completed             3          -80.00%
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     
+Copr build completed       
+Copr build started         
 Edit on the wiki           jreznik (51), avesh (44), zerng07 (27)
 Meeting completed          nb (3), BobLfoot (1), Cerlyn (1)
 Meeting started            randomuser` (1), sesivany (1), tflink (1)

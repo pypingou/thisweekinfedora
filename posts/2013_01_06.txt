@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                        0               NA
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            313         +222.68%
 FAS user created             39          +21.88%
 Meeting completed             0               NA
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     
+Copr build completed       
+Copr build started         
 Edit on the wiki           robatino (23), anipeter (22), fedoradummy (19)
 Meeting completed          
 Meeting started            

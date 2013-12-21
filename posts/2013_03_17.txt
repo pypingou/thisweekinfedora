@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                      662               NA
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            308               NA
 FAS user created             23               NA
 Meeting completed             3               NA
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     salimma (47), jamielinux (29), scop (29)
+Copr build completed       
+Copr build started         
 Edit on the wiki           adamwill (34), xosevp (15), fedoradummy (12)
 Meeting completed          alick (2), AndChat|366225 (1), BadGirl (1)
 Meeting started            alick (1), giallu (1), tuanta (1)

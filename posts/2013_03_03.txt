@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                      810          -83.35%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            193          -70.49%
 FAS user created             13          -71.74%
 Meeting completed             0               NA
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     ralph (67), salimma (37), toshio (34)
+Copr build completed       
+Copr build started         
 Edit on the wiki           cicku (57), toshio (13), fedoradummy (8)
 Meeting completed          
 Meeting started            

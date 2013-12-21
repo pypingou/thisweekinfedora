@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded              918          +01.55%
 Builds                     3428          +11.55%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki           1211          +51.19%
 FAS user created            119          -38.66%
 Meeting completed             6          -33.33%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             pwu (9), yograterol (9), echevemaster (8)
 Builds                     rdieter (145), mtasaka (107), lsm5 (76)
+Copr build completed       
+Copr build started         
 Edit on the wiki           rolffokkens (162), alyaj2a (60), zerng07 (42)
 Meeting completed          threebean (3), abadger1999 (2), nirik (2)
 Meeting started            threebean (2), alick (1), ignatenkobrain (1)

@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded             1036          -14.24%
 Builds                     4809          -48.01%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            871          +03.44%
 FAS user created            145          +08.21%
 Meeting completed            16          -23.81%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             maci (11), fenris02 (8), kkeithle (8)
 Builds                     rdieter (1217), kalev (444), leigh123linux (97)
+Copr build completed       
+Copr build started         
 Edit on the wiki           besser82 (119), anipeter (67), pwhalen (31)
 Meeting completed          abadger1999 (5), nirik (4), Viking-Ice (3)
 Meeting started            abadger1999 (2), sesivany (2), tflink (2)

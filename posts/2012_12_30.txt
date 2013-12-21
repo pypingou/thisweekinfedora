@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                        0               NA
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki             97          -71.88%
 FAS user created             32          -03.03%
 Meeting completed             0         -100.00%
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     
+Copr build completed       
+Copr build started         
 Edit on the wiki           churchyard (15), mschwendt (12), msalter (9)
 Meeting completed          
 Meeting started            

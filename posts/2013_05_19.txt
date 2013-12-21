@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                     4227          +20.67%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki           1114          +04.01%
 FAS user created             96         +284.00%
 Meeting completed            14         +366.67%
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     spot (99), orion (80), rhughes (77)
+Copr build completed       
+Copr build started         
 Edit on the wiki           boblfoot (67), zerng07 (66), 192.168.1.78 (45)
 Meeting completed          nirik (5), Viking-Ice (3), abadger1999 (3)
 Meeting started            tflink (2), Casper_v2 (1), adamw (1)

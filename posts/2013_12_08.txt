@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded              762          +19.62%
 Builds                     3492          +00.72%
+Copr build completed         33          -48.44%
+Copr build started           33          -48.44%
 Edit on the wiki            916          +39.63%
 FAS user created             97          -05.83%
 Meeting completed            31         +210.00%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             alshafay (7), gilboa (7), rwright (7)
 Builds                     rdieter (338), ellert (222), pbrobinson (131)
+Copr build completed       mstuchli (10), fatka (6), howcanuhavemyusername (5)
+Copr build started         mstuchli (10), fatka (6), howcanuhavemyusername (5)
 Edit on the wiki           sophiekovalevsky (66), satellit (57), duffy (47)
 Meeting completed          nirik (10), jreznik (7), tflink (7)
 Meeting started            sgallagh (4), jreznik (2), nirik (2)

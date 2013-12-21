@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                     3122          -07.50%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            715          -14.88%
 FAS user created             96          -21.31%
 Meeting completed             1          -96.15%
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     siwinski (111), epienbro (96), asrob (43)
+Copr build completed       
+Copr build started         
 Edit on the wiki           peter (155), inkscaper (91), pwhalen (46)
 Meeting completed          nirik (1)
 Meeting started            nirik (1)

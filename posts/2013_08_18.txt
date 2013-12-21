@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded             2397          -19.62%
 Builds                     3183          -40.08%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            896          -09.22%
 FAS user created            142          -20.67%
 Meeting completed            32          -69.81%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             jamielinux (39), lbazan (30), akurtakov (26)
 Builds                     jplesnik (92), mtasaka (51), rdieter (45)
+Copr build completed       
+Copr build started         
 Edit on the wiki           pinkpony (105), dcantrel (101), johannbg (42)
 Meeting completed          suehle (9), halfline (8), jsmith (8)
 Meeting started            suehle (6), halfline (5), adamw (2)

@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded              835          -02.79%
 Builds                     4634          +37.22%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            881          +32.68%
 FAS user created            113          -13.08%
 Meeting completed            24          +09.09%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             cdamian (11), glisse (8), hpejakle (8)
 Builds                     rdieter (1284), rhughes (199), jgrulich (131)
+Copr build completed       
+Copr build started         
 Edit on the wiki           duffy (63), satellit (45), munimala (43)
 Meeting completed          nirik (9), sgallagh (7), roshi (5)
 Meeting started            sgallagh (2), suehle (2), tflink (2)

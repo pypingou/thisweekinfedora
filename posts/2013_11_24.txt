@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded              502          -31.79%
 Builds                     3360          -64.47%
+Copr build completed         33          -50.00%
+Copr build started           33          -50.00%
 Edit on the wiki            946          -06.24%
 FAS user created            103          -11.21%
 Meeting completed            13          -50.00%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             kmf (12), snavin (10), immanetize (6)
 Builds                     rdieter (426), rhughes (101), valtri (95)
+Copr build completed       simo (7), remi (6), howcanuhavemyusername (4)
+Copr build started         simo (7), remi (6), howcanuhavemyusername (4)
 Edit on the wiki           inkscaper (135), johannbg (68), duffy (63)
 Meeting completed          sgallagh (5), nirik (4), Viking-Ice (3)
 Meeting started            sgallagh (3), aeperezt (2), mmaslano (2)

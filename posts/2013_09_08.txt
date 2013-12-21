@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded             1951          +07.55%
 Builds                     4988          +06.79%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            828          +01.85%
 FAS user created            178          +09.88%
 Meeting completed            19          +72.73%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             jvanek (16), jmarrero (14), codeblock (13)
 Builds                     rdieter (1189), jamielinux (283), kalev (192)
+Copr build completed       
+Copr build started         
 Edit on the wiki           robatino (61), pwhalen (54), sbueno (50)
 Meeting completed          nirik (5), dgilmore (4), handsome_pirate (4)
 Meeting started            tflink (2), FranciscoD (1), Kevin_Kofler (1)

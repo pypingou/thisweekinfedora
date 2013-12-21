@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                    30836         +435.53%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            879          +00.57%
 FAS user created            115          -09.45%
 Meeting completed            16          +14.29%
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     ausil (13023), ppisar (563), pmachata (160)
+Copr build completed       
+Copr build started         
 Edit on the wiki           adamwill (86), chrisroberts (80), ppisar (52)
 Meeting completed          threebean (10), cmpahar (2), giannisk (2)
 Meeting started            threebean (9), Kevin_Kofler (1), cmpahar (1)

@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded              904          -12.74%
 Builds                     3073          -36.10%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            801          -08.04%
 FAS user created            194          +33.79%
 Meeting completed             9          -43.75%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             kdaniel (11), ferox (8), bellet (7)
 Builds                     leigh123linux (174), rdieter (153), kdaniel (88)
+Copr build completed       
+Copr build started         
 Edit on the wiki           churchyard (38), ferox (31), tonet666p (31)
 Meeting completed          handsome_pirate (4), jreznik (3), tflink (3)
 Meeting started            adamw (1), eseyman (1), handsome_pirate (1)

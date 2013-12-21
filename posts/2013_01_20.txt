@@ -10,7 +10,10 @@ Activities
 ======================    ========   ======================
 Activities                 Amount     Diff to previous week
 ======================    ========   ======================
+Badges awarded                0               NA
 Builds                        0               NA
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki           1008          +18.59%
 FAS user created             60          +36.36%
 Meeting completed             0               NA
@@ -28,7 +31,10 @@ Top contributors of the week
 ======================    ==============
 Activites                  Contributors
 ======================    ==============
+Badges awarded             
 Builds                     
+Copr build completed       
+Copr build started         
 Edit on the wiki           cicku (72), toshio (35), lennart (28)
 Meeting completed          
 Meeting started            

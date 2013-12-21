@@ -12,6 +12,8 @@ Activities                 Amount     Diff to previous week
 ======================    ========   ======================
 Badges awarded              859          +00.94%
 Builds                     3377          -19.29%
+Copr build completed          0               NA
+Copr build started            0               NA
 Edit on the wiki            664          +02.31%
 FAS user created            130          +17.12%
 Meeting completed            22          +15.79%
@@ -31,6 +33,8 @@ Activites                  Contributors
 ======================    ==============
 Badges awarded             pnemade (12), harviak (9), verdurin (8)
 Builds                     lkundrak (158), peter (111), ajax (110)
+Copr build completed       
+Copr build started         
 Edit on the wiki           churchyard (67), satellit (59), pwhalen (53)
 Meeting completed          nirik (7), adamw (6), jreznik (6)
 Meeting started            FranciscoD (2), adamw (2), jreznik (2)
