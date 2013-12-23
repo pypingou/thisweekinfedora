@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2013/12/22 23:59:00
+.. title: Activities from Mon, 16 Dec 2013 to Sun, 22 Dec 2013
+.. slug: 2013_12_22
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1256          -23.60%
+Builds                     3536          -19.21%
+Copr build completed        505          +69.46%
+Copr build started          513          +68.20%
+Edit on the wiki            681          -23.57%
+FAS user created            134          +19.64%
+Meeting completed            20          -20.00%
+Meeting started              20          -20.00%
+New packages                 29          +20.83%
+Posts on the planet         313          -95.09%
+Retired packages              6          -25.00%
+Updates to stable           447          +29.19%
+Updates to testing          520          +03.59%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             cpatrick08 (7), larsks (7), quantenselbstmord (7)
+Builds                     rdieter (445), besser82 (175), ausil (127)
+Copr build completed       churchyard (160), ryanlerch (138), james (58)
+Copr build started         churchyard (160), ryanlerch (146), james (58)
+Edit on the wiki           adamwill (87), pwhalen (67), till (36)
+Meeting completed          sgallagh (6), nirik (5), abadger1999 (4)
+Meeting started            sgallagh (3), abadger1999 (2), adamw (1)
+New packages               raveit65 (4), brouhaha (2), dridi (2)
+Posts on the planet        oddshocks (31), kdaniel (25), kumarpraveen (25)
+Retired packages           ciupicri (2), raveit65 (2), limb (1)
+Updates to stable          ellert (19), remi (15), robert (13)
+Updates to testing         besser82 (23), remi (19), raveit65 (18)
+======================    ==============
+
