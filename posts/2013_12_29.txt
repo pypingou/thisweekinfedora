@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2013/12/29 23:59:00
+.. title: Activities from Mon, 23 Dec 2013 to Sun, 29 Dec 2013
+.. slug: 2013_12_29
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              468          -62.74%
+Builds                     1721          -51.33%
+Copr build completed        136          -73.07%
+Copr build started          136          -73.49%
+Edit on the wiki            175          -74.30%
+FAS user created            105          -21.64%
+Meeting completed             2          -90.00%
+Meeting started               2          -90.00%
+New packages                 10          -65.52%
+Posts on the planet         167          -46.65%
+Retired packages             15         +150.00%
+Updates to stable           258          -42.28%
+Updates to testing          257          -50.58%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             perex (8), arifiauo (7), levex (7)
+Builds                     rdieter (180), orion (99), petersen (68)
+Copr build completed       frafra (38), churchyard (24), kevin (12)
+Copr build started         frafra (38), churchyard (24), kevin (12)
+Edit on the wiki           fedoradummy (28), zerng07 (20), adamwill (17)
+Meeting completed          BadGirl (1), LiuYan (1), RobberPhex (1)
+Meeting started            alick (1), nirik (1)
+New packages               galileo (2), besser82 (1), corsepiu (1)
+Posts on the planet        dbmacartney (47), arifiauo (27), levex (22)
+Retired packages           vicodan (9), anishpatil (4), robert (1)
+Updates to stable          raveit65 (14), remi (11), besser82 (10)
+Updates to testing         cicku (17), siwinski (16), corsepiu (14)
+======================    ==============
+
