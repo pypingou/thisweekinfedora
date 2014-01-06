@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/01/05 23:59:00
+.. title: Activities from Mon, 30 Dec 2013 to Sun, 05 Jan 2014
+.. slug: 2014_01_05
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              589          +25.85%
+Builds                     2979          +73.10%
+Copr build completed        662         +386.76%
+Copr build started          665         +388.97%
+Edit on the wiki            371         +112.00%
+FAS user created            114          +08.57%
+Meeting completed             5         +150.00%
+Meeting started               5         +150.00%
+New packages                 39         +290.00%
+Posts on the planet         115          -31.14%
+Retired packages             10          -33.33%
+Updates to stable           313          +21.32%
+Updates to testing          438          +70.43%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             jhladky (8), tforsman (7), yn1v (6)
+Builds                     rdieter (760), raveit65 (117), remi (89)
+Copr build completed       dnarvaez (298), remi (130), dvratil (121)
+Copr build started         dnarvaez (298), remi (130), dvratil (123)
+Edit on the wiki           fedoradummy (28), cicku (26), germano (24)
+Meeting completed          alick (2), BadGirl (1), CyrusYzGTt (1)
+Meeting started            FranciscoD (1), aeperezt (1), alick (1)
+New packages               remi (5), corsepiu (4), cicku (3)
+Posts on the planet        axilleas (12), pgordon (11), ausil (10)
+Retired packages           sdake (5), petersen (2), limb (1)
+Updates to stable          corsepiu (13), ppisar (12), mtasaka (10)
+Updates to testing         raveit65 (45), remi (28), siwinski (19)
+======================    ==============
+
