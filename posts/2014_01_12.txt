@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/01/12 23:59:00
+.. title: Activities from Mon, 06 Jan 2014 to Sun, 12 Jan 2014
+.. slug: 2014_01_12
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             7342        +1146.52%
+Builds                     4337          +45.59%
+Copr build completed       1212          +83.08%
+Copr build started         1243          +86.92%
+Edit on the wiki            773         +108.36%
+FAS user created            122          +07.02%
+Meeting completed            26         +420.00%
+Meeting started              26         +420.00%
+New packages                 50          +28.21%
+Posts on the planet         126          +09.57%
+Retired packages             19          +90.00%
+Updates to stable           372          +18.85%
+Updates to testing          553          +26.26%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             remi (13), ajamison (12), jdetaeye (11)
+Builds                     rdieter (568), remi (212), ausil (201)
+Copr build completed       dvratil (424), dnarvaez (378), msuchy (97)
+Copr build started         dvratil (440), dnarvaez (383), msuchy (102)
+Edit on the wiki           pwhalen (31), eischmann (30), fedoradummy (28)
+Meeting completed          nirik (8), abadger1999 (5), dgilmore (4)
+Meeting started            nirik (2), sesivany (2), sgallagh (2)
+New packages               siwinski (7), dtardon (4), remi (4)
+Posts on the planet        admin (19), ajamison (10), markmc (9)
+Retired packages           ralph (3), siwinski (3), epienbro (2)
+Updates to stable          ralph (26), raveit65 (26), siwinski (21)
+Updates to testing         rdieter (29), remi (18), asrob (17)
+======================    ==============
+
