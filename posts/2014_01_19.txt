@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/01/19 23:59:00
+.. title: Activities from Mon, 13 Jan 2014 to Sun, 19 Jan 2014
+.. slug: 2014_01_19
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1234          -83.19%
+Builds                     5095          +17.48%
+Copr build completed        948          -21.78%
+Copr build started          959          -22.85%
+Edit on the wiki            824          +06.60%
+FAS user created            123          +00.82%
+Meeting completed            29          +11.54%
+Meeting started              29          +11.54%
+New packages                 51          +02.00%
+Posts on the planet         140          +11.11%
+Retired packages              6          -68.42%
+Updates to stable           314          -15.59%
+Updates to testing          599          +08.32%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             kusterjr (10), johe (9), puiterwijk (9)
+Builds                     remi (775), lkundrak (201), rdieter (151)
+Copr build completed       churchyard (109), dvratil (106), devos (69)
+Copr build started         dvratil (110), churchyard (109), devos (70)
+Edit on the wiki           pwhalen (65), limb (60), remi (34)
+Meeting completed          sgallagh (6), abadger1999 (5), danofsatx (5)
+Meeting started            sgallagh (3), mmaslano (2), puiterwijk (2)
+New packages               remi (14), goldmann (4), smani (4)
+Posts on the planet        anishpatil (12), dheche (10), robberphex (10)
+Retired packages           rdieter (4), leigh123linux (1), moceap (1)
+Updates to stable          remi (17), rdieter (15), siwinski (15)
+Updates to testing         remi (43), lsm5 (30), rdieter (15)
+======================    ==============
+
