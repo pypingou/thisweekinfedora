@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/01/26 23:59:00
+.. title: Activities from Mon, 20 Jan 2014 to Sun, 26 Jan 2014
+.. slug: 2014_01_26
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              848          -31.28%
+Builds                     4122          -19.10%
+Copr build completed        306          -67.72%
+Copr build started          311          -67.57%
+Edit on the wiki            811          -01.58%
+FAS user created            116          -05.69%
+Meeting completed            28          -03.45%
+Meeting started              26          -10.34%
+New packages                 40          -21.57%
+Posts on the planet         136          -02.86%
+Retired packages              8          +33.33%
+Updates to stable           368          +17.20%
+Updates to testing          553          -07.68%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             dscott (11), immanetize (11), dsecsuresh (10)
+Builds                     rdieter (196), ellert (179), pghmcfc (154)
+Copr build completed       petersen (38), dnarvaez (36), jkaluza (34)
+Copr build started         petersen (38), dnarvaez (36), jkaluza (34)
+Edit on the wiki           pwhalen (48), sophiekovalevsky (44), limb (32)
+Meeting completed          jreznik (7), nirik (7), abadger1999 (6)
+Meeting started            alick (2), nirik (2), sesivany (2)
+New packages               remi (6), gil (5), adamwill (4)
+Posts on the planet        admin (14), yn1v (10), sherry151 (9)
+Retired packages           notting (2), kevin (1), petersen (1)
+Updates to stable          remi (29), asrob (20), rdieter (14)
+Updates to testing         ralph (39), daveisfera (31), siwinski (27)
+======================    ==============
+
