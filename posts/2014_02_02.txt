@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/02/02 23:59:00
+.. title: Activities from Mon, 27 Jan 2014 to Sun, 02 Feb 2014
+.. slug: 2014_02_02
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1123          +32.43%
+Builds                     3705          -10.12%
+Copr build completed        503          +64.38%
+Copr build started          512          +64.63%
+Edit on the wiki            631          -22.19%
+FAS user created            130          +12.07%
+Meeting completed            22          -21.43%
+Meeting started              22          -15.38%
+New packages                 45          +12.50%
+Posts on the planet         161          +18.38%
+Retired packages             10          +25.00%
+Updates to stable           339          -07.88%
+Updates to testing          444          -19.71%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             till (13), aviram (12), rkratky (10)
+Builds                     rdieter (542), pghmcfc (154), pbrady (111)
+Copr build completed       devos (142), remi (110), walters (55)
+Copr build started         devos (142), remi (110), walters (55)
+Edit on the wiki           pwhalen (62), limb (43), fedoradummy (28)
+Meeting completed          nirik (7), abadger1999 (4), adamw (3)
+Meeting started            nirik (4), masta (2), sgallagh (2)
+New packages               mizdebsk (11), remi (5), adelton (2)
+Posts on the planet        mcepl (15), czanik (10), kaboon (10)
+Retired packages           jsynacek (3), ralph (3), limb (2)
+Updates to stable          remi (23), daveisfera (14), terjeros (10)
+Updates to testing         ralph (19), raveit65 (17), remi (16)
+======================    ==============
+
