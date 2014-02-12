@@ -23,8 +23,9 @@ import requests
 
 DATAGREPPER = 'https://apps.fedoraproject.org/datagrepper/raw'
 TOPICS = {
-    'Updates to stable' : 'org.fedoraproject.prod.bodhi.update.request.stable',
-    'Updates to testing' : 'org.fedoraproject.prod.bodhi.update.request.testing',
+    'Updates to stable': 'org.fedoraproject.prod.bodhi.update.request.stable',
+    'Updates to testing':
+    'org.fedoraproject.prod.bodhi.update.request.testing',
     'Builds': 'org.fedoraproject.prod.buildsys.build.state.change',
     'FAS user created': 'org.fedoraproject.prod.fas.user.create',
     'Meeting started': 'org.fedoraproject.prod.meetbot.meeting.start',
@@ -78,13 +79,14 @@ def query_datagrepper(start, end, topic, full=False):
         messages = []
         cnt = 1
         while True:
-            params = {'start': calendar.timegm(start.timetuple()),
-                      'end': calendar.timegm(end.timetuple()),
-                      'rows_per_page': 100,
-                      'page': cnt,
-                      'topic': topic,
-                      'meta': 'usernames',
-                  }
+            params = {
+                'start': calendar.timegm(start.timetuple()),
+                'end': calendar.timegm(end.timetuple()),
+                'rows_per_page': 100,
+                'page': cnt,
+                'topic': topic,
+                'meta': 'usernames',
+            }
             req = requests.get(DATAGREPPER, params=params)
             json_out = json.loads(req.text)
             info = '{0} - page: {1}/{2}\r'.format(
@@ -175,7 +177,7 @@ def get_fedora_activity(datetime_to, datetime_from):
 
 
 def create_blog_post(datetime_to, datetime_from, activities,
-        previous_activities, top_contributors):
+                     previous_activities, top_contributors):
     """ Create a new blog post.
 
     :arg datetime_to: a datetime object specifying the starting date and
@@ -249,12 +251,12 @@ Activites                  Contributors
 ======================    ==============
 
 """.format(
-    date_now=datetime_to.strftime('%Y/%m/%d %H:%M:%S'),
-    date_from=datetime_from.strftime('%a, %d %b %Y'),
-    date_to=datetime_to.strftime('%a, %d %b %Y'),
-    slug_date=datetime_to.strftime('%Y_%m_%d'),
-    content=blog_entry.strip(),
-    top_user = top_user_entry.strip(),
+        date_now=datetime_to.strftime('%Y/%m/%d %H:%M:%S'),
+        date_from=datetime_from.strftime('%a, %d %b %Y'),
+        date_to=datetime_to.strftime('%a, %d %b %Y'),
+        slug_date=datetime_to.strftime('%Y_%m_%d'),
+        content=blog_entry.strip(),
+        top_user=top_user_entry.strip(),
     )
 
     file_name = '{0}.txt'.format(datetime_to.strftime('%Y_%m_%d'))
@@ -302,8 +304,6 @@ def generate_svg(evolution):
         activities over time.
 
     """
-    file_name = 'evolution.txt'
-
     config = pygal.Config()
     config.css.append('http://thisweekinfedora.org/assets/css/svg.css')
 
@@ -351,9 +351,9 @@ def process_week(date_to=None):
         datetime_from - timedelta(days=7)
     )
 
-
     create_blog_post(datetime_to, datetime_from, activities,
                      previous_activities, top_contributors)
+
 
 def generate_history():
     """ Generate all the dates from December 31 2012 and process each
