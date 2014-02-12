@@ -1,0 +1,7 @@
+.series .line:not(.active) {
+    /*stroke: none;*/
+}
+.dot:not(.active):not(:hover) {
+    fill: transparent;
+    stroke: transparent;
+}

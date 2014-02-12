@@ -304,8 +304,10 @@ def generate_svg(evolution):
     """
     file_name = 'evolution.txt'
 
-    line_chart = pygal.Line()
-    line_chart.title = 'Evolution of the activities of the contributors over time'
+    config = pygal.Config()
+    config.css.append('http://thisweekinfedora.org/assets/css/svg.css')
+
+    line_chart = pygal.Line(config)
     lbls = []
     for activity in sorted(evolution.keys()):
         values = []
@@ -319,6 +321,7 @@ def generate_svg(evolution):
         if not lbls:
             lbls = sorted(evolution[activity].keys())
     line_chart.x_labels = lbls
+    line_chart.print_values = False
     line_chart.render_to_file(os.path.join('themes', 'thisweekinfedora',
                                            'assets', 'evolution.svg'))
 
