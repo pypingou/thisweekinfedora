@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/02/16 23:59:00
+.. title: Activities from Mon, 10 Feb 2014 to Sun, 16 Feb 2014
+.. slug: 2014_02_16
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              940          +12.85%
+Builds                     5628          +46.91%
+Copr build completed       1314          +68.46%
+Copr build started         1312          +66.92%
+Edit on the wiki            651          +21.46%
+FAS user created            118          -16.31%
+Meeting completed            25               NA
+Meeting started              22        +2100.00%
+New packages                 30          +42.86%
+Posts on the planet         319         +182.30%
+Retired packages              7          +40.00%
+Updates to stable           345          -05.22%
+Updates to testing          525          +39.26%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             puiterwijk (13), karsten (10), parasense (10)
+Builds                     karsten (1347), rdieter (239), dwa (188)
+Copr build completed       rhscl (489), domcleal (132), dnarvaez (96)
+Copr build started         rhscl (489), domcleal (132), dnarvaez (96)
+Edit on the wiki           mclasen (50), tiansworld (45), cicku (40)
+Meeting completed          nirik (8), threebean (5), abadger1999 (4)
+Meeting started            nirik (3), abadger1999 (2), Cydrobolt (1)
+New packages               cicku (4), jjames (2), mooninite (2)
+Posts on the planet        kad (215), admin (14), ardian (11)
+Retired packages           vicodan (3), nb (2), churchyard (1)
+Updates to stable          remi (25), ralph (15), raveit65 (15)
+Updates to testing         siwinski (50), tdawson (27), cicku (23)
+======================    ==============
+
