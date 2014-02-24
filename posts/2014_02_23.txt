@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/02/23 23:59:00
+.. title: Activities from Mon, 17 Feb 2014 to Sun, 23 Feb 2014
+.. slug: 2014_02_23
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              810          -13.83%
+Builds                     6344          +12.72%
+Copr build completed       1729          +31.58%
+Copr build started         1749          +33.31%
+Edit on the wiki            574          -11.83%
+FAS user created            109          -07.63%
+Meeting completed            20          -20.00%
+Meeting started              20          -09.09%
+New packages                 30          -00.00%
+Posts on the planet         102          -68.03%
+Retired packages             12          +71.43%
+Updates to stable           339          -01.74%
+Updates to testing          470          -10.48%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             rhughes (9), bjohnson (8), jensm (7)
+Builds                     karsten (1574), sharkcz (746), dwa (326)
+Copr build completed       rhughes (868), nonamedotc (191), domcleal (154)
+Copr build started         rhughes (888), nonamedotc (191), domcleal (154)
+Edit on the wiki           holmja (68), lbazan (30), pwhalen (29)
+Meeting completed          dgilmore (5), abadger1999 (4), masta (4)
+Meeting started            hagarth (2), sesivany (2), abadger1999 (1)
+New packages               smani (3), ddick (2), ktdreyer (2)
+Posts on the planet        karsten (17), sayanchowdhury (10), ktnode (5)
+Retired packages           dchen (4), gerd (4), limb (2)
+Updates to stable          ralph (15), remi (12), rmattes (9)
+Updates to testing         ralph (27), cicku (26), jussilehtola (16)
+======================    ==============
+
