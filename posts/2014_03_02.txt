@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/03/02 23:59:00
+.. title: Activities from Mon, 24 Feb 2014 to Sun, 02 Mar 2014
+.. slug: 2014_03_02
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              968          +19.51%
+Builds                    10348          +63.11%
+Copr build completed       1320          -23.66%
+Copr build started         1318          -24.64%
+Edit on the wiki            749          +30.49%
+FAS user created            123          +12.84%
+Meeting completed            21          +05.00%
+Meeting started              21          +05.00%
+New packages                 52          +73.33%
+Posts on the planet         134          +31.37%
+Retired packages              6          -50.00%
+Updates to stable           270          -20.35%
+Updates to testing          428          -08.94%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             lilixx (15), pspacek (10), mbooth (8)
+Builds                     karsten (4008), sharkcz (1408), dwa (1060)
+Copr build completed       msuchy (174), domcleal (154), rhughes (154)
+Copr build started         msuchy (174), domcleal (154), rhughes (152)
+Edit on the wiki           immanetize (50), yulytas (41), sagitter (37)
+Meeting completed          nirik (9), sgallagh (6), abadger1999 (5)
+Meeting started            nirik (3), sgallagh (2), adamw (1)
+New packages               jamielinux (5), willb (5), pghmcfc (4)
+Posts on the planet        tbielawa (36), sarupbanskota (10), ssp (10)
+Retired packages           lbazan (4), pghmcfc (1), vicodan (1)
+Updates to stable          siwinski (26), remi (8), filiperosset (6)
+Updates to testing         jamielinux (24), hpejakle (16), cicku (11)
+======================    ==============
+
