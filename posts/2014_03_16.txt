@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/03/16 23:59:00
+.. title: Activities from Mon, 10 Mar 2014 to Sun, 16 Mar 2014
+.. slug: 2014_03_16
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1385          +72.48%
+Builds                     5889          -26.86%
+Copr build completed       2460          +36.06%
+Copr build started         2461          +35.59%
+Edit on the wiki            888          +34.75%
+FAS user created            106          -15.20%
+Meeting completed            22        +2100.00%
+Meeting started              22        +2100.00%
+New packages                 41          +36.67%
+Posts on the planet          83          -27.83%
+Retired packages              7          -53.33%
+Updates to stable           295          +05.73%
+Updates to testing          305          -29.40%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             humaton (10), vrusinov (9), biow0lf (8)
+Builds                     sharkcz (1419), karsten (776), dwa (469)
+Copr build completed       rhscl (626), remi (353), mizdebsk (327)
+Copr build started         rhscl (626), remi (353), mizdebsk (327)
+Edit on the wiki           somvannda (59), charul (47), rohitpaulk (42)
+Meeting completed          abadger1999 (6), adamw (4), jreznik (4)
+Meeting started            abadger1999 (2), mmaslano (2), nirik (2)
+New packages               jamielinux (17), aeperezt (2), asn (2)
+Posts on the planet        pmjunior (7), admin (6), davej (4)
+Retired packages           petersen (3), jamielinux (2), mbooth (1)
+Updates to stable          tdawson (37), siwinski (19), jamielinux (10)
+Updates to testing         adev (27), aalvarez (16), cicku (11)
+======================    ==============
+
