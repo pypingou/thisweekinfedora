@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/03/23 23:59:00
+.. title: Activities from Mon, 17 Mar 2014 to Sun, 23 Mar 2014
+.. slug: 2014_03_23
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1210          -12.64%
+Builds                     9805          +66.50%
+Copr build completed       2122          -13.74%
+Copr build started         2125          -13.65%
+Edit on the wiki           1178          +32.66%
+FAS user created            128          +20.75%
+Meeting completed            26          +18.18%
+Meeting started              26          +18.18%
+New packages                 60          +46.34%
+Posts on the planet         107          +28.92%
+Retired packages              4          -42.86%
+Updates to stable           272          -07.80%
+Updates to testing          373          +22.30%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             immanetize (10), abeche (8), cmalfait (7)
+Builds                     dwa (3267), karsten (1660), rdieter (814)
+Copr build completed       rhughes (268), remi (264), praiskup (207)
+Copr build started         rhughes (268), remi (264), praiskup (207)
+Edit on the wiki           sarupbanskota (88), axilleas (65), charul (58)
+Meeting completed          jreznik (6), nb (6), abadger1999 (5)
+Meeting started            nb (3), alick (2), randomuser (2)
+New packages               jamielinux (17), slagle (4), msrb (3)
+Posts on the planet        jwrdegoede (25), admin (15), fossjon (3)
+Retired packages           filiperosset (1), jchaloup (1), limb (1)
+Updates to stable          fab (12), ralph (11), siwinski (9)
+Updates to testing         pghmcfc (13), mharmsen (12), cicku (11)
+======================    ==============
+
