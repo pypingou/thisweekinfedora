@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/03/30 23:59:00
+.. title: Activities from Mon, 24 Mar 2014 to Sun, 30 Mar 2014
+.. slug: 2014_03_30
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              768          -36.53%
+Builds                    10632          +08.43%
+Copr build completed       2060          -02.92%
+Copr build started         2069          -02.64%
+Edit on the wiki            795          -32.51%
+FAS user created            127          -00.78%
+Meeting completed            19          -26.92%
+Meeting started              19          -26.92%
+New packages                 43          -28.33%
+Posts on the planet         284         +165.42%
+Retired packages              6          +50.00%
+Updates to stable           251          -07.72%
+Updates to testing          392          +05.09%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             ndowens (12), fidelleon (10), baumannk (6)
+Builds                     dwa (4725), karsten (1231), mizdebsk (1047)
+Copr build completed       rhughes (558), remi (214), msuchy (180)
+Copr build started         rhughes (558), remi (215), msuchy (180)
+Edit on the wiki           peter (62), pallavikumarijha (58), adamwill (51)
+Meeting completed          nirik (7), danofsatx-work (5), abadger1999 (4)
+Meeting started            nirik (3), alick (2), tuanta (2)
+New packages               msrb (5), corsepiu (3), kdudka (3)
+Posts on the planet        admin (186), appelond (10), tim4dev (6)
+Retired packages           dridi (3), petersen (3)
+Updates to stable          cicku (12), aalvarez (10), pghmcfc (9)
+Updates to testing         ralph (19), jamielinux (12), corsepiu (10)
+======================    ==============
+
