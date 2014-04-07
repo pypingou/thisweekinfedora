@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/04/06 23:59:00
+.. title: Activities from Mon, 31 Mar 2014 to Sun, 06 Apr 2014
+.. slug: 2014_04_06
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              982          +27.86%
+Builds                     6678          -37.19%
+Copr build completed       2369          +15.00%
+Copr build started         2373          +14.69%
+Edit on the wiki            642          -19.25%
+FAS user created            126          -00.79%
+Meeting completed            20          +05.26%
+Meeting started              20          +05.26%
+New packages                 29          -32.56%
+Posts on the planet         129          -54.58%
+Retired packages             15         +150.00%
+Updates to stable           270          +07.57%
+Updates to testing          372          -05.10%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             bmr (18), coordinated (10), cheese (8)
+Builds                     dwa (1362), karsten (1264), sharkcz (627)
+Copr build completed       allenhewes (678), dvratil (235), msuchy (165)
+Copr build started         allenhewes (674), dvratil (236), msuchy (165)
+Edit on the wiki           adamwill (50), jreznik (42), mmaslano (35)
+Meeting completed          nirik (5), abadger1999 (4), dgilmore (4)
+Meeting started            dgilmore (2), sesivany (2), sgallagh (2)
+New packages               jamielinux (13), codeblock (2), ddick (2)
+Posts on the planet        bbbush (25), dmalcolm (25), admin (6)
+Retired packages           dridi (6), lsm5 (5), mhayden (4)
+Updates to stable          mharmsen (12), corsepiu (10), pghmcfc (10)
+Updates to testing         jamielinux (26), remi (21), orion (11)
+======================    ==============
+
