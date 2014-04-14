@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/04/13 23:59:00
+.. title: Activities from Mon, 07 Apr 2014 to Sun, 13 Apr 2014
+.. slug: 2014_04_13
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              754          -23.22%
+Builds                     5955          -10.83%
+Copr build completed        569          -75.98%
+Copr build started          593          -75.01%
+Edit on the wiki            619          -03.58%
+FAS user created            127          +00.79%
+Meeting completed            20          -00.00%
+Meeting started              20          -00.00%
+New packages                 30          +03.45%
+Posts on the planet         120          -06.98%
+Retired packages             10          -33.33%
+Updates to stable           309          +14.44%
+Updates to testing          318          -14.52%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             afsilva (12), ihrachyshka (8), michelmno (7)
+Builds                     sharkcz (1842), dwa (622), karsten (604)
+Copr build completed       domcleal (77), msuchy (75), plautrba (39)
+Copr build started         domcleal (77), msuchy (75), plautrba (39)
+Edit on the wiki           jreznik (74), pwhalen (39), lbazan (26)
+Meeting completed          jreznik (4), masta (4), Viking-Ice (3)
+Meeting started            Casper_v2 (1), Kevin_Kofler (1), adamw (1)
+New packages               lsm5 (5), remi (4), petersen (2)
+Posts on the planet        olea (30), admin (12), jmlevick (4)
+Retired packages           aeperezt (4), dbhole (2), ausil (1)
+Updates to stable          jamielinux (23), remi (15), besser82 (14)
+Updates to testing         lsm5 (26), mtasaka (15), remi (13)
+======================    ==============
+
