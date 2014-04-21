@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/04/20 23:59:00
+.. title: Activities from Mon, 14 Apr 2014 to Sun, 20 Apr 2014
+.. slug: 2014_04_20
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              625          -17.11%
+Builds                     6472          +08.68%
+Copr build completed       1372         +141.12%
+Copr build started         1374         +131.70%
+Edit on the wiki            463          -25.20%
+FAS user created            113          -11.02%
+Meeting completed            23          +15.00%
+Meeting started              23          +15.00%
+New packages                 34          +13.33%
+Posts on the planet          50          -58.33%
+Retired packages             14          +40.00%
+Updates to stable           163          -47.25%
+Updates to testing          372          +16.98%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             gawbul (7), kislik (7), jbernard (6)
+Builds                     karsten (1323), dwa (1064), sharkcz (678)
+Copr build completed       msuchy (350), domcleal (153), rhughes (92)
+Copr build started         msuchy (352), domcleal (153), rhughes (92)
+Edit on the wiki           jreznik (48), petersen (30), fedoradummy (28)
+Meeting completed          jreznik (5), nirik (5), adamw (4)
+Meeting started            FranciscoD (2), adamw (2), heidie (2)
+New packages               ddick (4), jamielinux (2), mimccune (2)
+Posts on the planet        davej (3), duffy (3), netsys (3)
+Retired packages           petersen (6), tibbs (5), dbhole (1)
+Updates to stable          jamielinux (12), ralph (12), cicku (6)
+Updates to testing         jamielinux (55), remi (20), dtardon (11)
+======================    ==============
+
