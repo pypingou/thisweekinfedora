@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/04/27 23:59:00
+.. title: Activities from Mon, 21 Apr 2014 to Sun, 27 Apr 2014
+.. slug: 2014_04_27
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              744          +19.04%
+Builds                     9034          +39.59%
+Copr build completed       2324          +69.39%
+Copr build started         2331          +69.65%
+Edit on the wiki            410          -11.45%
+FAS user created            112          -00.88%
+Meeting completed            22          -04.35%
+Meeting started              23          -00.00%
+New packages                 31          -08.82%
+Posts on the planet          76          +52.00%
+Retired packages              2          -85.71%
+Updates to stable           274          +68.10%
+Updates to testing          362          -02.69%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             jamielinux (15), ghostalker (7), billwood09 (6)
+Builds                     karsten (3161), dwa (1116), sharkcz (691)
+Copr build completed       msuchy (378), allenhewes (336), dvratil (237)
+Copr build started         msuchy (378), allenhewes (336), dvratil (237)
+Edit on the wiki           jreznik (58), roshi (29), fedoradummy (28)
+Meeting completed          nirik (6), randomuser (5), zsun (5)
+Meeting started            alick (4), kkeithley (2), nirik (2)
+New packages               jamielinux (4), amigadave (2), gil (2)
+Posts on the planet        ryanlerch (15), admiyo (3), fabiand (3)
+Retired packages           pbrady (1), sagitter (1)
+Updates to stable          remi (15), mtasaka (14), orion (12)
+Updates to testing         jamielinux (25), remi (15), siwinski (12)
+======================    ==============
+
