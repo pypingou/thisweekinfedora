@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/05/11 23:59:00
+.. title: Activities from Mon, 05 May 2014 to Sun, 11 May 2014
+.. slug: 2014_05_11
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              711          -38.28%
+Builds                     8990          +58.92%
+Copr build completed       2884          +35.65%
+Copr build started         2891          +35.98%
+Edit on the wiki            397          -21.70%
+FAS user created            122          +28.42%
+Meeting completed            22          +22.22%
+Meeting started              22          +15.79%
+New packages                 27          -06.90%
+Posts on the planet          85          -23.42%
+Retired packages              9          -59.09%
+Updates to stable           323          -08.50%
+Updates to testing          372          +06.59%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             yanglifu90 (14), eznoka (9), nordickiwi (7)
+Builds                     dwa (2942), karsten (2413), sharkcz (671)
+Copr build completed       dvratil (776), msuchy (374), lzap (282)
+Copr build started         dvratil (776), msuchy (374), lzap (282)
+Edit on the wiki           fedoradummy (28), wwwaaaeeelll (26), asoliard (22)
+Meeting completed          dgilmore (4), nirik (4), abadger1999 (3)
+Meeting started            alick (2), sgallagh (2), tuanta (2)
+New packages               ppisar (4), martinkg (3), corsepiu (2)
+Posts on the planet        ezq (11), ryanlerch (5), villadalmine (4)
+Retired packages           besser82 (2), remi (2), cdamian (1)
+Updates to stable          jamielinux (75), cicku (12), smani (11)
+Updates to testing         asrob (27), remi (22), jamielinux (13)
+======================    ==============
+
