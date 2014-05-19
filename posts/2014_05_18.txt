@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/05/18 23:59:00
+.. title: Activities from Mon, 12 May 2014 to Sun, 18 May 2014
+.. slug: 2014_05_18
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              524          -26.30%
+Builds                    10384          +15.51%
+Copr build completed       2818          -02.29%
+Copr build started         2824          -02.32%
+Edit on the wiki            386          -02.77%
+FAS user created             81          -33.61%
+Meeting completed            19          -13.64%
+Meeting started              19          -13.64%
+New packages                 66         +144.44%
+Posts on the planet         126          +48.24%
+Retired packages              6          -33.33%
+Updates to stable           195          -39.63%
+Updates to testing          212          -43.01%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             ivazquez (8), benatto (7), trondham (7)
+Builds                     sharkcz (3323), karsten (2716), dwa (2133)
+Copr build completed       dvratil (806), msuchy (354), mihkel (283)
+Copr build started         dvratil (809), msuchy (354), mihkel (283)
+Edit on the wiki           endle (37), fedoradummy (28), alick (27)
+Meeting completed          abadger1999 (4), dgilmore (4), nirik (4)
+Meeting started            Kevin_Kofler (2), nirik (2), randomuser (2)
+New packages               remi (12), lkundrak (10), brouhaha (5)
+Posts on the planet        ivazquez (25), rdieter (25), tim4dev (11)
+Retired packages           mizdebsk (2), sagitter (2), limb (1)
+Updates to stable          ralph (14), fab (9), ppisar (8)
+Updates to testing         ralph (12), mcepl (11), bruno (8)
+======================    ==============
+
