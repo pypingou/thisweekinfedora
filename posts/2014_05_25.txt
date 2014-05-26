@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/05/25 23:59:00
+.. title: Activities from Mon, 19 May 2014 to Sun, 25 May 2014
+.. slug: 2014_05_25
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              620          +18.32%
+Builds                     9687          -06.71%
+Copr build completed       2739          -02.80%
+Copr build started         2741          -02.94%
+Edit on the wiki            456          +18.13%
+FAS user created            104          +28.40%
+Meeting completed             4          -78.95%
+Meeting started               4          -78.95%
+New packages                 68          +03.03%
+Posts on the planet         187          +48.41%
+Retired packages              0         -100.00%
+Updates to stable           227          +16.41%
+Updates to testing          296          +39.62%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             baude (11), sereinit (8), brockers (7)
+Builds                     sharkcz (4148), dwa (1487), pmachata (546)
+Copr build completed       mizdebsk (946), msuchy (398), dvratil (194)
+Copr build started         mizdebsk (946), msuchy (398), dvratil (190)
+Edit on the wiki           hhorak (41), sarupbanskota (37), cicku (29)
+Meeting completed          danofsatx-work (2), roshi (2), Jehane (1)
+Meeting started            dgilmore (1), eseyman (1), randomuser (1)
+New packages               orion (7), cicku (6), lkundrak (5)
+Posts on the planet        orvtech (110), admin (32), jmlevick (5)
+Retired packages           
+Updates to stable          asrob (20), jamielinux (11), remi (8)
+Updates to testing         remi (19), cicku (12), vbatts (10)
+======================    ==============
+
