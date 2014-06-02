@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/06/01 23:59:00
+.. title: Activities from Mon, 26 May 2014 to Sun, 01 Jun 2014
+.. slug: 2014_06_01
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              424          -31.61%
+Builds                     8420          -13.08%
+Copr build completed       2920          +06.61%
+Copr build started         2929          +06.86%
+Edit on the wiki            299          -34.43%
+FAS user created             95          -08.65%
+Meeting completed             1          -75.00%
+Meeting started               1          -75.00%
+New packages                 98          +44.12%
+Posts on the planet          99          -47.06%
+Retired packages              0               NA
+Updates to stable           220          -03.08%
+Updates to testing          336          +13.51%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             dstancl (6), faxguy (6), jasonamyers (6)
+Builds                     karsten (2395), sharkcz (2029), dwa (578)
+Copr build completed       mizdebsk (1614), msuchy (342), domcleal (170)
+Copr build started         mizdebsk (1620), msuchy (342), domcleal (170)
+Edit on the wiki           fedoradummy (28), michalv (25), pwhalen (15)
+Meeting completed          nirik (1)
+Meeting started            nirik (1)
+New packages               asrob (24), dvratil (12), ddick (7)
+Posts on the planet        oddshocks (16), mapleoin (14), sdowe (9)
+Retired packages           
+Updates to stable          asrob (9), ralph (9), anishpatil (8)
+Updates to testing         epienbro (22), remi (16), lsm5 (13)
+======================    ==============
+
