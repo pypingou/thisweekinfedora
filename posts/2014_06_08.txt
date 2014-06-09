@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/06/08 23:59:00
+.. title: Activities from Mon, 02 Jun 2014 to Sun, 08 Jun 2014
+.. slug: 2014_06_08
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              613          +44.58%
+Builds                    47639         +465.78%
+Copr build completed       1785          -38.87%
+Copr build started         1790          -38.89%
+Edit on the wiki            335          +12.04%
+FAS user created             37          -61.05%
+Meeting completed            12        +1100.00%
+Meeting started              11        +1000.00%
+New packages                 43          -56.12%
+Posts on the planet         130          +31.31%
+Retired packages              0               NA
+Updates to stable           212          -03.64%
+Updates to testing          273          -18.75%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             nativesk (13), mkovarik (10), aph (8)
+Builds                     ausil (30662), pbrobinson (8232), karsten (4518)
+Copr build completed       msuchy (378), dvratil (300), domcleal (175)
+Copr build started         msuchy (378), dvratil (300), domcleal (175)
+Edit on the wiki           sharkcz (37), fedoradummy (28), pwhalen (22)
+Meeting completed          danofsatx-work (2), dgilmore (2), geppetto (2)
+Meeting started            JustinClift (1), Kevin_Kofler (1), alick (1)
+New packages               bochecha (9), flo (5), petersen (5)
+Posts on the planet        tuxdna (21), admin (15), siddhesh (10)
+Retired packages           
+Updates to stable          epienbro (22), remi (14), salimma (10)
+Updates to testing         siwinski (12), remi (10), volter (10)
+======================    ==============
+
