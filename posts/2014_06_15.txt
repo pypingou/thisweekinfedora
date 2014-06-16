@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/06/15 23:59:00
+.. title: Activities from Mon, 09 Jun 2014 to Sun, 15 Jun 2014
+.. slug: 2014_06_15
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              492          -19.74%
+Builds                    22966          -51.79%
+Copr build completed       2793          +56.47%
+Copr build started         2793          +56.03%
+Edit on the wiki            333          -00.60%
+FAS user created             86         +132.43%
+Meeting completed            11          -08.33%
+Meeting started              11          -00.00%
+New packages                 20          -53.49%
+Posts on the planet          68          -47.69%
+Retired packages              0               NA
+Updates to stable           204          -03.77%
+Updates to testing          284          +04.03%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             rrix (8), jfreed (7), lebel (6)
+Builds                     pbrobinson (17690), karsten (1240), sharkcz (572)
+Copr build completed       dvratil (804), msuchy (395), nalimilan (296)
+Copr build started         dvratil (804), msuchy (395), nalimilan (296)
+Edit on the wiki           fedoradummy (28), lbrabec (17), cicku (14)
+Meeting completed          dgilmore (4), abadger1999 (3), echevemaster (2)
+Meeting started            abadger1999 (2), JustinClift (1), aeperezt (1)
+New packages               dvratil (5), remi (5), codeblock (4)
+Posts on the planet        admin (10), tforsman (3), fhornain (2)
+Retired packages           
+Updates to stable          remi (14), mcpierce (9), petersen (7)
+Updates to testing         ralph (22), remi (14), lsm5 (9)
+======================    ==============
+
