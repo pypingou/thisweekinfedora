@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/06/29 23:59:00
+.. title: Activities from Mon, 23 Jun 2014 to Sun, 29 Jun 2014
+.. slug: 2014_06_29
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              510          +02.00%
+Builds                    31955         +132.72%
+Copr build completed       3901         +144.73%
+Copr build started         3909         +145.23%
+Edit on the wiki            600          +51.90%
+FAS user created             80          -13.98%
+Meeting completed            20          +05.26%
+Meeting started              20          -00.00%
+New packages                 80          -11.11%
+Posts on the planet         104          -00.95%
+Retired packages              0               NA
+Updates to stable           210          -07.08%
+Updates to testing          365          +25.43%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             nickth (9), boblfoot (8), gagomes (7)
+Builds                     sharkcz (19939), pbrobinson (7883), karsten (1048)
+Copr build completed       remi (755), rhughes (482), churchyard (476)
+Copr build started         remi (755), rhughes (481), churchyard (478)
+Edit on the wiki           nickth (93), fedoradummy (28), cicku (26)
+Meeting completed          dgilmore (5), abadger1999 (4), nirik (4)
+Meeting started            dgilmore (2), JustinClift (1), Kevin_Kofler (1)
+New packages               dvratil (8), valtri (8), dfateyev (6)
+Posts on the planet        olea (30), fche (20), admin (12)
+Retired packages           
+Updates to stable          remi (16), jamielinux (7), cicku (6)
+Updates to testing         siwinski (21), corsepiu (17), ellert (15)
+======================    ==============
+
