@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/07/06 23:59:00
+.. title: Activities from Mon, 30 Jun 2014 to Sun, 06 Jul 2014
+.. slug: 2014_07_06
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              854          +67.45%
+Builds                    16567          -48.16%
+Copr build completed       2208          -43.40%
+Copr build started         2208          -43.51%
+Edit on the wiki            648          +08.00%
+FAS user created             70          -12.50%
+Meeting completed            24          +20.00%
+Meeting started              23          +15.00%
+New packages                 78          -02.50%
+Posts on the planet          61          -41.35%
+Retired packages              0               NA
+Updates to stable           222          +05.71%
+Updates to testing          318          -12.88%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             mmraka (11), endur (8), snahv (7)
+Builds                     sharkcz (7349), pbrobinson (4939), karsten (1357)
+Copr build completed       msuchy (405), mihkel (403), domcleal (167)
+Copr build started         msuchy (405), mihkel (403), domcleal (167)
+Edit on the wiki           cleong (46), immanetize (39), cicku (30)
+Meeting completed          dgilmore (5), nirik (5), abadger1999 (4)
+Meeting started            nirik (3), randomuser (2), Kevin_Kofler (1)
+New packages               dvratil (15), dfateyev (6), tomh (6)
+Posts on the planet        spstarr (10), mcepl (4), paulmellors (3)
+Retired packages           
+Updates to stable          ralph (19), corsepiu (10), cicku (8)
+Updates to testing         corsepiu (16), robert (15), aalvarez (12)
+======================    ==============
+
