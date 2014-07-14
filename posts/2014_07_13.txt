@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/07/13 23:59:00
+.. title: Activities from Mon, 07 Jul 2014 to Sun, 13 Jul 2014
+.. slug: 2014_07_13
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              700          -18.03%
+Builds                    13562          -18.14%
+Copr build completed       2098          -04.98%
+Copr build started         2099          -04.94%
+Edit on the wiki            656          +01.23%
+FAS user created            103          +47.14%
+Meeting completed            32          +33.33%
+Meeting started              30          +30.43%
+New packages                134          +71.79%
+Posts on the planet          70          +14.75%
+Retired packages              0               NA
+Updates to stable           237          +06.76%
+Updates to testing          282          -11.32%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             elwell (13), evillagr (12), minda (10)
+Builds                     pbrobinson (4371), sharkcz (3252), karsten (2636)
+Copr build completed       msuchy (411), dvratil (229), domcleal (197)
+Copr build started         msuchy (411), dvratil (229), domcleal (197)
+Edit on the wiki           adamwill (108), cleong (53), cicku (42)
+Meeting completed          jreznik (10), sgallagh (8), dgilmore (7)
+Meeting started            mattdm (3), jreznik (2), randomuser (2)
+New packages               mrunge (13), tdawson (11), besser82 (10)
+Posts on the planet        rtnpro (9), admin (6), rjones (3)
+Retired packages           
+Updates to stable          siwinski (27), remi (18), corsepiu (16)
+Updates to testing         ppisar (14), remi (14), cicku (12)
+======================    ==============
+
