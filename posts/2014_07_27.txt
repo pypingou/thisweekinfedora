@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/07/27 23:59:00
+.. title: Activities from Mon, 21 Jul 2014 to Sun, 27 Jul 2014
+.. slug: 2014_07_27
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              490          -18.87%
+Builds                    13512          -54.00%
+Copr build completed       3616          +17.17%
+Copr build started         3648          +17.11%
+Edit on the wiki            465          -00.21%
+FAS user created             84          -06.67%
+Meeting completed            19          -29.63%
+Meeting started              18          -28.00%
+New packages                483         +312.82%
+Posts on the planet          71          +07.58%
+Retired packages              0               NA
+Updates to stable           223          +31.95%
+Updates to testing          426          +15.45%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             yselkowitz (17), irina (8), scozrafa (7)
+Builds                     pbrobinson (5928), karsten (1516), sharkcz (1253)
+Copr build completed       remi (542), dvratil (383), domcleal (259)
+Copr build started         remi (542), dvratil (377), domcleal (259)
+Edit on the wiki           ryanlerch (45), scozrafa (36), wolnei (36)
+Meeting completed          jreznik (7), mattdm (6), dgilmore (5)
+Meeting started            Sparks (2), mattdm (2), sesivany (2)
+New packages               ralph (255), remi (59), ddick (43)
+Posts on the planet        admin (16), adamwill (4), eischmann (4)
+Retired packages           
+Updates to stable          remi (20), cicku (10), pcpa (10)
+Updates to testing         ralph (118), remi (32), ddick (16)
+======================    ==============
+
