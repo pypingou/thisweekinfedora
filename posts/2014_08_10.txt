@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/08/10 23:59:00
+.. title: Activities from Mon, 04 Aug 2014 to Sun, 10 Aug 2014
+.. slug: 2014_08_10
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1340         +162.23%
+Builds                    13519          -41.92%
+Copr build completed       2118          -03.60%
+Copr build started         2127          -03.36%
+Edit on the wiki            577          +33.56%
+FAS user created            104          -00.00%
+Meeting completed            43          +59.26%
+Meeting started              38          +40.74%
+New packages                136          +13.33%
+Posts on the planet          97          -14.91%
+Retired packages              0               NA
+Updates to stable           258          +17.81%
+Updates to testing          297          -04.50%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             jforbes (20), pjones (15), thm (14)
+Builds                     pbrobinson (4482), sharkcz (3085), karsten (1590)
+Copr build completed       domcleal (372), dvratil (352), msuchy (180)
+Copr build started         domcleal (372), dvratil (352), msuchy (180)
+Edit on the wiki           wolnei (52), adamwill (28), fedoradummy (28)
+Meeting completed          Sparks_too (7), Cydrobolt (6), Jehane (6)
+Meeting started            flock-b286 (5), flock-t343 (4), tradej (4)
+New packages               tc01 (20), valtri (13), lkundrak (11)
+Posts on the planet        admin (26), kevin (5), sgallagh (5)
+Retired packages           
+Updates to stable          remi (17), ralph (15), ddick (13)
+Updates to testing         terminalmage (22), remi (19), ralph (18)
+======================    ==============
+
