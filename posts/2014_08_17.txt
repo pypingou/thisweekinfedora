@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/08/17 23:59:00
+.. title: Activities from Mon, 11 Aug 2014 to Sun, 17 Aug 2014
+.. slug: 2014_08_17
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              774          -42.24%
+Builds                    51943         +284.22%
+Copr build completed       4857         +129.32%
+Copr build started         4857         +128.35%
+Edit on the wiki            565          -02.08%
+FAS user created             78          -25.00%
+Meeting completed             6          -86.05%
+Meeting started               4          -89.47%
+New packages                 95          -30.15%
+Posts on the planet          93          -04.12%
+Retired packages              0               NA
+Updates to stable           300          +16.28%
+Updates to testing          277          -06.73%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             monreal (15), fpokorny (11), fale (10)
+Builds                     pbrobinson (24400), karsten (14304), dwa (5900)
+Copr build completed       rhscl (1512), msuchy (511), domcleal (338)
+Copr build started         rhscl (1512), msuchy (511), domcleal (338)
+Edit on the wiki           vbenes (48), pbokoc (47), amrmostafazaki (36)
+Meeting completed          dgilmore (3), Casper_v2 (2), Cydrobolt (2)
+Meeting started            randomuser (2), cwickert (1), dgilmore (1)
+New packages               cicku (12), fab (10), ddick (8)
+Posts on the planet        admin (10), davej (10), mitzie (5)
+Retired packages           
+Updates to stable          ralph (113), siwinski (15), lsm5 (11)
+Updates to testing         remi (24), nb (13), mtasaka (12)
+======================    ==============
+
