@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/08/24 23:59:00
+.. title: Activities from Mon, 18 Aug 2014 to Sun, 24 Aug 2014
+.. slug: 2014_08_24
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1119          +44.57%
+Builds                    27771          -46.54%
+Copr build completed       3564          -26.62%
+Copr build started         3590          -26.09%
+Edit on the wiki            595          +05.31%
+FAS user created             77          -01.28%
+Meeting completed            18         +200.00%
+Meeting started              18         +350.00%
+New packages                102          +07.37%
+Posts on the planet          76          -18.28%
+Retired packages              0               NA
+Updates to stable           179          -40.33%
+Updates to testing          267          -03.61%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             fale (18), xtranophilist (13), tuanta (9)
+Builds                     pbrobinson (12661), sharkcz (6933), karsten (4318)
+Copr build completed       codeblock (1212), domcleal (371), msuchy (181)
+Copr build started         codeblock (1217), domcleal (371), msuchy (181)
+Edit on the wiki           hhorak (29), fedoradummy (28), elad (27)
+Meeting completed          nirik (6), dgilmore (4), pjones (3)
+Meeting started            nirik (3), JustinClift (1), Sparks (1)
+New packages               ralph (30), ddick (9), olea (8)
+Posts on the planet        amsharma (10), paulmellors (5), admin (4)
+Retired packages           
+Updates to stable          remi (12), robert (9), cicku (8)
+Updates to testing         ralph (32), pnemade (12), lsm5 (11)
+======================    ==============
+
