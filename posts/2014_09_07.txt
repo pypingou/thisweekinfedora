@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/09/07 23:59:00
+.. title: Activities from Mon, 01 Sep 2014 to Sun, 07 Sep 2014
+.. slug: 2014_09_07
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              685          -05.91%
+Builds                    30982          -01.35%
+Copr build completed       2177          -35.13%
+Copr build started         2177          -35.69%
+Edit on the wiki            603          +12.08%
+FAS user created             82          -01.20%
+Meeting completed            26          -07.14%
+Meeting started              26          -03.70%
+New packages                 91          +12.35%
+Posts on the planet          82          -73.89%
+Retired packages              0               NA
+Updates to stable           259          +23.33%
+Updates to testing          516          +25.55%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             hguemar (21), arcress (9), robyduck (9)
+Builds                     pbrobinson (17551), karsten (9462), jplesnik (980)
+Copr build completed       domcleal (239), msuchy (203), mordae (105)
+Copr build started         domcleal (239), msuchy (203), mordae (105)
+Edit on the wiki           gnokii (50), satellit (44), jplesnik (36)
+Meeting completed          dgilmore (7), adamw (5), jreznik (5)
+Meeting started            jreznik (2), kparal (2), sesivany (2)
+New packages               mrunge (25), jujens (12), ralph (10)
+Posts on the planet        admin (7), ppisar (6), engels (5)
+Retired packages           
+Updates to stable          pnemade (11), siwinski (11), filiperosset (10)
+Updates to testing         pjp (25), llaumgui (24), pbrobinson (14)
+======================    ==============
+
