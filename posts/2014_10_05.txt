@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/10/05 23:59:00
+.. title: Activities from Mon, 29 Sep 2014 to Sun, 05 Oct 2014
+.. slug: 2014_10_05
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              634          +25.79%
+Builds                    14414          -14.14%
+Copr build completed       3498          +03.95%
+Copr build started         3513          +04.52%
+Edit on the wiki           1429          +43.47%
+FAS user created             93          -25.60%
+Meeting completed             5          -85.71%
+Meeting started               5          -84.38%
+New packages                 86          +86.96%
+Posts on the planet         111          +12.12%
+Retired packages              0               NA
+Updates to stable           355          -24.95%
+Updates to testing          702          -03.57%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             moezroy (11), robyduck (11), alejocruz (7)
+Builds                     pbrobinson (4185), karsten (3815), sharkcz (3480)
+Copr build completed       rhscl (304), baurzhanm (256), nalimilan (216)
+Copr build started         rhscl (307), baurzhanm (257), nalimilan (224)
+Edit on the wiki           adamwill (742), mattdm (51), msrb (45)
+Meeting completed          misc (2), nirik (2), sgallagh (2)
+Meeting started            Jehane (1), andreasn__ (1), dgilmore (1)
+New packages               pnemade (18), ddick (10), jchaloup (10)
+Posts on the planet        admin (19), mavjs (14), tforsman (8)
+Retired packages           
+Updates to stable          jchaloup (17), pnemade (16), siwinski (16)
+Updates to testing         raveit65 (38), fab (32), pnemade (29)
+======================    ==============
+
