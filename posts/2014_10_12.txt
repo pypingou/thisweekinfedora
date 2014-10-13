@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/10/12 23:59:00
+.. title: Activities from Mon, 06 Oct 2014 to Sun, 12 Oct 2014
+.. slug: 2014_10_12
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              682          +07.57%
+Builds                    12779          -11.34%
+Copr build completed       3346          -04.35%
+Copr build started         3374          -03.96%
+Edit on the wiki            666          -53.39%
+FAS user created             81          -12.90%
+Meeting completed            25         +400.00%
+Meeting started              24         +380.00%
+New packages                221         +156.98%
+Posts on the planet          92          -17.12%
+Retired packages              0               NA
+Updates to stable           585          +64.79%
+Updates to testing          713          +01.57%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             tushark (8), jdulaney (7), n0oir (7)
+Builds                     pbrobinson (5649), sharkcz (1903), rdieter (1170)
+Copr build completed       nalimilan (953), mosquito (255), staticfloat (254)
+Copr build started         nalimilan (946), mosquito (257), staticfloat (247)
+Edit on the wiki           adamwill (58), immanetize (39), dodger (34)
+Meeting completed          nirik (5), rdieter (4), roshi (4)
+Meeting started            jwb (2), jzb (2), nirik (2)
+New packages               jchaloup (61), pghmcfc (32), fab (24)
+Posts on the planet        mbaldessari (18), admin (12), hrw (5)
+Retired packages           
+Updates to stable          fab (36), raveit65 (30), ralph (23)
+Updates to testing         jchaloup (48), pghmcfc (39), robert (35)
+======================    ==============
+
