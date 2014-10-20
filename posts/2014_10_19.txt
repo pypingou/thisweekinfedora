@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/10/19 23:59:00
+.. title: Activities from Mon, 13 Oct 2014 to Sun, 19 Oct 2014
+.. slug: 2014_10_19
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              553          -18.91%
+Builds                    12422          -02.79%
+Copr build completed       4078          +21.88%
+Copr build started         4079          +20.90%
+Edit on the wiki            622          -06.61%
+FAS user created             96          +18.52%
+Meeting completed            26          +04.00%
+Meeting started              25          +04.17%
+New packages                122          -44.80%
+Posts on the planet          76          -17.39%
+Retired packages              0               NA
+Updates to stable           554          -05.30%
+Updates to testing          780          +09.40%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             mpduty (28), raorn (9), eparis (7)
+Builds                     pbrobinson (4884), sharkcz (1880), karsten (1787)
+Copr build completed       dvratil (428), rhscl (354), lkundrak (320)
+Copr build started         dvratil (428), rhscl (354), lkundrak (320)
+Edit on the wiki           hhorak (29), fedoradummy (27), kstiel (26)
+Meeting completed          jreznik (5), nirik (5), danofsatx (4)
+Meeting started            nirik (2), randomuser (2), roshi (2)
+New packages               jchaloup (35), jskarvad (16), ddick (9)
+Posts on the planet        mahrud (13), admin (6), mythcat (4)
+Retired packages           
+Updates to stable          remi (36), jchaloup (34), pghmcfc (25)
+Updates to testing         pnemade (105), siwinski (43), jchaloup (42)
+======================    ==============
+
