@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/10/26 23:59:00
+.. title: Activities from Mon, 20 Oct 2014 to Sun, 26 Oct 2014
+.. slug: 2014_10_26
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              828          +49.73%
+Builds                    18491          +48.86%
+Copr build completed       4405          +08.02%
+Copr build started         4458          +09.29%
+Edit on the wiki            998          +60.45%
+FAS user created            139          +44.79%
+Meeting completed            30          +15.38%
+Meeting started              29          +16.00%
+New packages                142          +16.39%
+Posts on the planet          88          +15.79%
+Retired packages              0               NA
+Updates to stable           603          +08.84%
+Updates to testing          647          -17.05%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             williamjmorenor (10), mosvald (9), abhaykadam (8)
+Builds                     karsten (6115), sharkcz (5328), pbrobinson (4334)
+Copr build completed       nalimilan (572), staticfloat (528), tieugene (388)
+Copr build started         nalimilan (561), staticfloat (517), tieugene (392)
+Edit on the wiki           adamwill (135), kparal (66), pwhalen (54)
+Meeting completed          sgallagh (9), jreznik (8), adamw (7)
+Meeting started            jreznik (3), randomuser (3), nirik (2)
+New packages               pnemade (40), ralph (20), moceap (10)
+Posts on the planet        espasmo (8), pjones (6), crisvann (5)
+Retired packages           
+Updates to stable          pnemade (98), fab (27), jchaloup (24)
+Updates to testing         pnemade (37), orion (29), jamielinux (26)
+======================    ==============
+
