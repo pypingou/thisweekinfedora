@@ -37,7 +37,7 @@ Copr build completed       rhughes (517), heliocastro (364), nalimilan (239)
 Copr build started         rhughes (518), heliocastro (364), nalimilan (242)
 Edit on the wiki           kparal (96), adamwill (64), pschindl (54)
 Meeting completed          nirik (7), adamw (6), roshi (5)
-Meeting started            roshi (3), randomuser (2), sesivany_ (2)
+Meeting started            roshi (3), randomuser (2), sesivany (2)
 New packages               pnemade (49), lsm5 (17), remi (15)
 Posts on the planet        admin (4), jbwillia (4), magjogui (4)
 Retired packages           

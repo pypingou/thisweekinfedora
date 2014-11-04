@@ -37,7 +37,7 @@ Copr build completed       rhscl (304), baurzhanm (256), nalimilan (216)
 Copr build started         rhscl (307), baurzhanm (257), nalimilan (224)
 Edit on the wiki           adamwill (742), mattdm (51), msrb (45)
 Meeting completed          misc (2), nirik (2), sgallagh (2)
-Meeting started            Jehane (1), andreasn__ (1), dgilmore (1)
+Meeting started            Jehane (1), andreasn (1), dgilmore (1)
 New packages               pnemade (18), ddick (10), jchaloup (10)
 Posts on the planet        admin (19), mavjs (14), tforsman (8)
 Retired packages           
