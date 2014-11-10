@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/11/09 23:59:00
+.. title: Activities from Mon, 03 Nov 2014 to Sun, 09 Nov 2014
+.. slug: 2014_11_09
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1014          +90.96%
+Builds                    11282          -10.46%
+Copr build completed       3844          +09.70%
+Copr build started         3836          +09.19%
+Edit on the wiki            732          -19.56%
+FAS user created             87          -03.33%
+Meeting completed            30          -00.00%
+Meeting started              31          +03.33%
+New packages                 93          -38.82%
+Posts on the planet         121          +45.78%
+Retired packages              0               NA
+Updates to stable           485          +07.30%
+Updates to testing          660          +07.49%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             bkabrda (10), aofrutos (8), dahlan (8)
+Builds                     pbrobinson (2839), karsten (2095), sharkcz (1820)
+Copr build completed       dvratil (784), rhscl (488), mosquito (361)
+Copr build started         dvratil (784), rhscl (488), mosquito (364)
+Edit on the wiki           ankursinha (54), satellit (50), gnokii (35)
+Meeting completed          nirik (8), sgallagh (6), adamw (5)
+Meeting started            pravins (2), randomuser (2), stickster (2)
+New packages               siwinski (13), pnemade (12), valtri (10)
+Posts on the planet        admin (14), dowdle (10), fhornain (9)
+Retired packages           
+Updates to stable          pnemade (43), siwinski (22), moceap (19)
+Updates to testing         pnemade (44), aalvarez (31), remi (31)
+======================    ==============
+
