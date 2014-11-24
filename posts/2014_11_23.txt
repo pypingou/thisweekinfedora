@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/11/23 23:59:00
+.. title: Activities from Mon, 17 Nov 2014 to Sun, 23 Nov 2014
+.. slug: 2014_11_23
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              619          -02.06%
+Builds                    16714          +17.95%
+Copr build completed       3693          -26.33%
+Copr build started         3694          -26.31%
+Edit on the wiki            528          -25.95%
+FAS user created             99          -02.94%
+Meeting completed            29          -00.00%
+Meeting started              27          -10.00%
+New packages                 88          -32.82%
+Posts on the planet          84          +05.00%
+Retired packages              0               NA
+Updates to stable           429          -17.34%
+Updates to testing          623          -21.73%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             lorenzodalrio (11), psavelye (8), aserban (7)
+Builds                     karsten (6860), pbrobinson (4863), sharkcz (2185)
+Copr build completed       rhscl (688), mosquito (365), nalimilan (358)
+Copr build started         rhscl (688), mosquito (365), nalimilan (359)
+Edit on the wiki           pwhalen (33), satellit (22), roshi (18)
+Meeting completed          nirik (6), danofsatx-work (5), sgallagh (5)
+Meeting started            randomuser (2), sgallagh (2), Sparks (1)
+New packages               jchaloup (20), anishpatil (9), tomh (9)
+Posts on the planet        dustymabe (10), admin (9), kevin (7)
+Retired packages           
+Updates to stable          remi (36), siwinski (27), psabata (23)
+Updates to testing         remi (36), limb (17), mcpierce (17)
+======================    ==============
+
