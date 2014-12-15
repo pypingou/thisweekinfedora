@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/12/14 23:59:00
+.. title: Activities from Mon, 08 Dec 2014 to Sun, 14 Dec 2014
+.. slug: 2014_12_14
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              741          +24.54%
+Builds                    13844          +52.00%
+Copr build completed       3124          -22.75%
+Copr build started         3141          -22.33%
+Edit on the wiki            723          -40.35%
+FAS user created            124          +55.00%
+Meeting completed            26         +116.67%
+Meeting started              26         +160.00%
+New packages                233          +16.50%
+Posts on the planet          76          +20.63%
+Retired packages              0               NA
+Updates to stable           455          +04.60%
+Updates to testing          704          +03.99%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             empateinfinito (26), empateeterno (19), lkardos (8)
+Builds                     sharkcz (5119), pbrobinson (3366), karsten (1737)
+Copr build completed       nalimilan (396), staticfloat (396), asamalik (262)
+Copr build started         nalimilan (396), staticfloat (396), asamalik (262)
+Edit on the wiki           adamwill (104), pwhalen (34), hhorak (31)
+Meeting completed          dgilmore (4), nirik (4), sgallagh (4)
+Meeting started            ndevos (2), nirik (2), sgallagh (2)
+New packages               piotrp (88), pnemade (54), remi (20)
+Posts on the planet        admin (10), fhornain (10), jmlevick (8)
+Retired packages           
+Updates to stable          remi (26), pnemade (15), salimma (14)
+Updates to testing         piotrp (54), pnemade (40), remi (30)
+======================    ==============
+
