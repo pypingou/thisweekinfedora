@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/12/21 23:59:00
+.. title: Activities from Mon, 15 Dec 2014 to Sun, 21 Dec 2014
+.. slug: 2014_12_21
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              328          -55.74%
+Builds                    16466          +18.94%
+Copr build completed       3377          +08.10%
+Copr build started         3376          +07.48%
+Edit on the wiki            669          -07.47%
+FAS user created             79          -36.29%
+Meeting completed             4          -84.62%
+Meeting started               4          -84.62%
+New packages                221          -05.15%
+Posts on the planet          85          +11.84%
+Retired packages              0               NA
+Updates to stable           466          +02.42%
+Updates to testing          599          -14.91%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             mrceresa (10), obnox (9), prarit (8)
+Builds                     sharkcz (8710), pbrobinson (2189), karsten (2101)
+Copr build completed       nalimilan (374), staticfloat (363), asamalik (309)
+Copr build started         nalimilan (374), staticfloat (363), asamalik (309)
+Edit on the wiki           story1987 (78), adamwill (76), pwhalen (42)
+Meeting completed          mkrizek (2), tflink (2), Mohamed_Fawzy (1)
+Meeting started            adamw (1), andreasn_ (1), randomuser (1)
+New packages               piotrp (75), pnemade (41), heliocastro (10)
+Posts on the planet        admin (16), kdetony (10), obnox (9)
+Retired packages           
+Updates to stable          piotrp (34), pnemade (33), remi (32)
+Updates to testing         pnemade (40), piotrp (33), psabata (17)
+======================    ==============
+
