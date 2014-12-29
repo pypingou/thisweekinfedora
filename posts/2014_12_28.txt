@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2014/12/28 23:59:00
+.. title: Activities from Mon, 22 Dec 2014 to Sun, 28 Dec 2014
+.. slug: 2014_12_28
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              502          +53.05%
+Builds                     8679          -47.29%
+Copr build completed       2864          -15.19%
+Copr build started         2864          -15.17%
+Edit on the wiki            764          +14.20%
+FAS user created             76          -03.80%
+Meeting completed             6          +50.00%
+Meeting started               5          +25.00%
+New packages                133          -39.82%
+Posts on the planet          46          -45.88%
+Retired packages              0               NA
+Updates to stable           414          -11.16%
+Updates to testing          384          -35.89%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             pali (9), lupinix (8), am1g0 (6)
+Builds                     sharkcz (2973), karsten (2740), pbrobinson (1386)
+Copr build completed       nalimilan (333), mosquito (264), staticfloat (253)
+Copr build started         nalimilan (333), mosquito (264), staticfloat (253)
+Edit on the wiki           adamwill (504), story1987 (34), anishpatil (31)
+Meeting completed          BadGirl (1), Pany (1), alick (1)
+Meeting started            amita (1), ndevos (1), pravins (1)
+New packages               pnemade (51), piotrp (50), smani (6)
+Posts on the planet        alexissolanas (11), rbhalera (5), admin (3)
+Retired packages           
+Updates to stable          piotrp (53), pnemade (36), remi (23)
+Updates to testing         pnemade (51), piotrp (30), siwinski (29)
+======================    ==============
+
