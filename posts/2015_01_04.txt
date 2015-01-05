@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2015/01/04 23:59:00
+.. title: Activities from Mon, 29 Dec 2014 to Sun, 04 Jan 2015
+.. slug: 2015_01_04
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              217          -56.77%
+Builds                     7256          -16.40%
+Copr build completed       2449          -14.49%
+Copr build started         2450          -14.46%
+Edit on the wiki            208          -72.77%
+FAS user created             38          -50.00%
+Meeting completed             3          -50.00%
+Meeting started               3          -40.00%
+New packages                 72          -45.86%
+Posts on the planet          36          -21.74%
+Retired packages              0               NA
+Updates to stable           430          +03.86%
+Updates to testing          360          -06.25%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             debapriyabiswas (6), tomprince (6), coec (4)
+Builds                     sharkcz (3141), pbrobinson (1737), karsten (650)
+Copr build completed       nalimilan (539), staticfloat (539), msuchy (242)
+Copr build started         nalimilan (539), staticfloat (539), msuchy (242)
+Edit on the wiki           story1987 (36), fedoradummy (28), pravins (13)
+Meeting completed          alick (2), BadGirl (1), KageSenshi (1)
+Meeting started            banas (1), randomuser (1), zsun (1)
+New packages               pnemade (45), tomprince (6), jchaloup (5)
+Posts on the planet        empateinfinito (5), mythcat (3), pravins (3)
+Retired packages           
+Updates to stable          pnemade (43), ppisar (23), epienbro (19)
+Updates to testing         pnemade (36), siwinski (30), smani (20)
+======================    ==============
+
