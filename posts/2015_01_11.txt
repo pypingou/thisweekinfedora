@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2015/01/11 23:59:00
+.. title: Activities from Mon, 05 Jan 2015 to Sun, 11 Jan 2015
+.. slug: 2015_01_11
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              290          +33.64%
+Builds                    10014          +38.01%
+Copr build completed       3685          +50.47%
+Copr build started         3705          +51.22%
+Edit on the wiki            638         +206.73%
+FAS user created             39          +02.63%
+Meeting completed            27         +800.00%
+Meeting started              27         +800.00%
+New packages                123          +70.83%
+Posts on the planet          78         +116.67%
+Retired packages              0               NA
+Updates to stable           434          +00.93%
+Updates to testing          553          +53.61%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             devrim (7), lslebodn (7), riecatnor (6)
+Builds                     sharkcz (4105), karsten (1642), pbrobinson (974)
+Copr build completed       dvratil (510), decathorpe (368), nalimilan (313)
+Copr build started         dvratil (510), decathorpe (368), nalimilan (319)
+Edit on the wiki           adamwill (51), aeng (43), hhorak (33)
+Meeting completed          nirik (8), jsmith (5), dgilmore (4)
+Meeting started            nirik (2), sesivany (2), sgallagh (2)
+New packages               group::kde-sig (17), jchaloup (10), remi (10)
+Posts on the planet        admin (12), czanik (10), kdetony (4)
+Retired packages           
+Updates to stable          pnemade (41), tdawson (16), mtasaka (15)
+Updates to testing         remi (41), jchaloup (19), psabata (18)
+======================    ==============
+
