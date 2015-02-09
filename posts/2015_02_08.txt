@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2015/02/08 23:59:00
+.. title: Activities from Mon, 02 Feb 2015 to Sun, 08 Feb 2015
+.. slug: 2015_02_08
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              826          -32.13%
+Builds                    12130          -17.64%
+Copr build completed       2705          -10.99%
+Copr build started         2717          -11.27%
+Edit on the wiki            804          +33.55%
+FAS user created            112          -11.81%
+Meeting completed            14          +75.00%
+Meeting started              12          +50.00%
+New packages                 62          -60.00%
+Posts on the planet          76          -10.59%
+Retired packages              0               NA
+Updates to stable           386          +34.03%
+Updates to testing          477          -01.04%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             drayanaindra (9), blx32 (8), lijugopinath (8)
+Builds                     karsten (3304), pbrobinson (2904), sharkcz (2783)
+Copr build completed       msuchy (198), heliocastro (184), empateinfinito (167)
+Copr build started         msuchy (198), heliocastro (184), empateinfinito (167)
+Edit on the wiki           coconut (226), adamwill (79), satellit (36)
+Meeting completed          threebean (3), abadger1999 (2), gothos (2)
+Meeting started            ParadoxGuitarist (1), Sparks (1), geppetto (1)
+New packages               
+Posts on the planet        admin (12), mohamed94 (11), kdetony (6)
+Retired packages           
+Updates to stable          ralph (35), jchaloup (25), ddick (16)
+Updates to testing         cicku (32), pnemade (24), jchaloup (23)
+======================    ==============
+
