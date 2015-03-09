@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2015/03/08 23:59:00
+.. title: Activities from Mon, 02 Mar 2015 to Sun, 08 Mar 2015
+.. slug: 2015_03_08
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              633          -41.93%
+Builds                    28788          +46.50%
+Copr build completed       3648          +31.89%
+Copr build started         3651          +32.04%
+Edit on the wiki            874          +61.25%
+FAS user created            118          -01.67%
+Meeting completed            32          +14.29%
+Meeting started              32          +18.52%
+New packages                105          -49.03%
+Posts on the planet         355          -05.33%
+Retired packages              0               NA
+Updates to stable           565          +82.26%
+Updates to testing          837          +30.37%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             iddnna (18), kragniz (11), stevej (8)
+Builds                     pbrobinson (5434), karsten (4362), sharkcz (2296)
+Copr build completed       dvratil (394), nonamedotc (266), yselkowitz (251)
+Copr build started         dvratil (394), nonamedotc (264), yselkowitz (251)
+Edit on the wiki           adamwill (69), satellit (52), pwhalen (44)
+Meeting completed          dgilmore (10), jreznik (10), nirik (9)
+Meeting started            jreznik (3), giannisk (2), randomuser (2)
+New packages               
+Posts on the planet        ankursinha (290), red (8), iddnna (6)
+Retired packages           
+Updates to stable          remi (41), pghmcfc (23), ralph (21)
+Updates to testing         jchaloup (71), remi (43), ellert (39)
+======================    ==============
+
