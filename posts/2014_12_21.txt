@@ -37,7 +37,7 @@ Copr build completed       nalimilan (374), staticfloat (363), asamalik (309)
 Copr build started         nalimilan (374), staticfloat (363), asamalik (309)
 Edit on the wiki           story1987 (78), adamwill (76), pwhalen (42)
 Meeting completed          mkrizek (2), tflink (2), Mohamed_Fawzy (1)
-Meeting started            adamw (1), andreasn_ (1), randomuser (1)
+Meeting started            adamw (1), andreasn (1), randomuser (1)
 New packages               piotrp (75), pnemade (41), heliocastro (10)
 Posts on the planet        admin (16), kdetony (10), obnox (9)
 Retired packages           

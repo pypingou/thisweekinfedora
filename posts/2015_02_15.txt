@@ -37,7 +37,7 @@ Copr build completed       dvratil (562), nalimilan (327), empateinfinito (281)
 Copr build started         dvratil (564), nalimilan (327), empateinfinito (281)
 Edit on the wiki           coconut (363), immanetize (58), adamwill (53)
 Meeting completed          pbrobinson (2), adamw (1), andreasn (1)
-Meeting started            andreasn_ (1), dgilmore (1), randomuser (1)
+Meeting started            andreasn (1), dgilmore (1), randomuser (1)
 New packages               
 Posts on the planet        admin (15), mohamed94 (3), rjones (3)
 Retired packages           
