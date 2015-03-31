@@ -300,7 +300,7 @@ def generate_svg(evolution):
     """ Reads in the json string contained in `evolution.txt` and
     generate the evolution graph from it using pygal.
 
-    :arg evolution: a dictionnary representing the evolution of the
+    :arg evolution: a dictionary representing the evolution of the
         activities over time.
 
     """
