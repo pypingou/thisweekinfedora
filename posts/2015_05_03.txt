@@ -37,7 +37,7 @@ Copr build completed       jmliger (413), devos (209), heikoada (200)
 Copr build started         jmliger (414), devos (209), heikoada (202)
 Edit on the wiki           adamwill (70), elsupergomez (22), satellit (21)
 Meeting completed          randomuser (6), dgilmore (5), nirik (4)
-Meeting started            JustinClift (1), Renault_ (1), Sparks (1)
+Meeting started            JustinClift (1), Renault (1), Sparks (1)
 New packages               
 Posts on the planet        atodorov (6), rjones (5), xiphmont (3)
 Retired packages           
