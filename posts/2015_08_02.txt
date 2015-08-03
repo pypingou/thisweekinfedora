@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2015/08/02 23:59:00
+.. title: Activities from Mon, 27 Jul 2015 to Sun, 02 Aug 2015
+.. slug: 2015_08_02
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded             1303         +131.03%
+Builds                    20445          +24.67%
+Copr build completed       4000          +16.11%
+Copr build started         3998          +15.25%
+Edit on the wiki            391          -30.43%
+FAS user created            112          +08.74%
+Meeting completed            29          +31.82%
+Meeting started              29          +31.82%
+New packages                158         +222.45%
+Posts on the planet          75          +36.36%
+Retired packages              0               NA
+Updates to stable           295          -19.40%
+Updates to testing          686          +59.91%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             aviso (10), mhoeher (9), ageha (7)
+Builds                     karsten (6397), pbrobinson (5984), sharkcz (2219)
+Copr build completed       avsej (708), griever (318), leinfeva (202)
+Copr build started         avsej (708), griever (318), leinfeva (202)
+Edit on the wiki           tibbs (46), jromanes (29), ref (29)
+Meeting completed          dgilmore (6), kushal (5), nirik (5)
+Meeting started            darci (2), nirik (2), roshi (2)
+New packages               
+Posts on the planet        leinfeva (10), lovenemesis (10), admin (9)
+Retired packages           
+Updates to stable          siwinski (19), remi (16), zvetlik (14)
+Updates to testing         jchaloup (183), remi (32), fpokorny (22)
+======================    ==============
+
