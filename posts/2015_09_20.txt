@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2015/09/20 23:59:00
+.. title: Activities from Mon, 14 Sep 2015 to Sun, 20 Sep 2015
+.. slug: 2015_09_20
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              637          +01.11%
+Builds                    12170          +15.83%
+Copr build completed       5728          +29.65%
+Copr build started         5745          +29.07%
+Edit on the wiki            686          +36.93%
+FAS user created            124          +05.98%
+Meeting completed            35          +84.21%
+Meeting started              34         +100.00%
+New packages                147          -02.65%
+Posts on the planet          83          +31.75%
+Retired packages              0               NA
+Updates to stable           555          +28.47%
+Updates to testing          599          -10.73%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             swilkerson (13), abkahrs (11), jflory7 (10)
+Builds                     pbrobinson (4839), karsten (1907), sharkcz (1317)
+Copr build completed       avsej (1123), decathorpe (466), rpmsoftwaremanagement (316)
+Copr build started         avsej (1122), decathorpe (466), rpmsoftwaremanagement (316)
+Edit on the wiki           pschindl (45), abkahrs (44), adamwill (38)
+Meeting completed          nirik (8), roshi (8), sgallagh (7)
+Meeting started            randomuser (3), jkurik (2), roshi (2)
+New packages               
+Posts on the planet        magjogui (21), admin (7), adamwill (2)
+Retired packages           
+Updates to stable          remi (42), orion (31), siwinski (29)
+Updates to testing         jchaloup (50), remi (32), rdieter (20)
+======================    ==============
+
