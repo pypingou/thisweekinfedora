@@ -1,0 +1,47 @@
+.. link:
+.. description:
+.. date: 2015/11/15 23:59:00
+.. title: Activities from Mon, 09 Nov 2015 to Sun, 15 Nov 2015
+.. slug: 2015_11_15
+
+Activities
+----------
+
+======================    ========   ======================
+Activities                 Amount     Diff to previous week
+======================    ========   ======================
+Badges awarded              640          +03.23%
+Builds                    22151          +40.28%
+Copr build completed       4777          -46.05%
+Copr build started         5091          -43.53%
+Edit on the wiki            513          -32.50%
+FAS user created            153          +13.33%
+Meeting completed            30          +20.00%
+Meeting started              31          +24.00%
+New packages                 58          +48.72%
+Posts on the planet          69          -23.33%
+Retired packages              0               NA
+Updates to stable           500          +32.28%
+Updates to testing          574          -02.21%
+======================    ========   ======================
+
+Top contributors of the week
+----------------------------
+
+======================    ==============
+Activites                  Contributors
+======================    ==============
+Badges awarded             lcons (11), karter (9), squain (8)
+Builds                     pbrobinson (13950), sharkcz (4154), dvratil (530)
+Copr build completed       avsej (638), domcleal (284), decathorpe (226)
+Copr build started         avsej (661), domcleal (289), decathorpe (235)
+Edit on the wiki           bee2502 (45), sparks (32), alexove (22)
+Meeting completed          nirik (6), sgallagh (5), decause (4)
+Meeting started            stickster (3), mattdm (2), sgallagh (2)
+New packages               
+Posts on the planet        admin (17), sayanchowdhury (9), pocock (5)
+Retired packages           
+Updates to stable          sagitter (35), jsmith (31), ellert (25)
+Updates to testing         remi (37), rdieter (25), sagitter (21)
+======================    ==============
+
